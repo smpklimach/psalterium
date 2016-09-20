@@ -1,0 +1,41 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{130/speretisrael.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 130}\\
+Quasi parvuli fiducia in Domino collocata\\
+\textit{\small Discite a me, quia mitis sum et humilis corde. (Mt 11,29)}
+\end{center}
+\begin{verse}[\versewidth]
+Dómine, non est exaltátum cor meum, *\\
+neque eláti sunt óculi mei;\\
+neque ambulávi in magnis, *\\
+neque in mirabílibus super me.\\
+Vere pacátam et quiétam *\\
+feci ánimam meam,\\
+sicut ablactátus in sinu matris suæ, *\\
+sicut ablactátus, ita in me est ánima mea.\\
+Speret Israel in Dómino, *\\
+ex hoc nunc et usque in sǽculum.\\
+\end{verse}
+\vspace{1cm}
+
+

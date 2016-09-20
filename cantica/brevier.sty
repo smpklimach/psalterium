@@ -1,0 +1,65 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{brevier}[2014/04/01 Standard LaTeX package fuer Brevierartige-Dateien]
+
+\RequirePackageWithOptions{gregoriotex}
+\RequirePackageWithOptions{color}
+\RequirePackageWithOptions{textcomp}
+\RequirePackageWithOptions{mathrsfs}
+\RequirePackageWithOptions{yfonts}
+\RequirePackageWithOptions{fancyhdr}
+\RequirePackageWithOptions{titlesec}
+\RequirePackageWithOptions{verse}
+
+\geometry{a5paper, top=20mm, left=19mm, right=19mm, bottom=25mm}
+%\DeclareMathAlphabet{\mathpzc}{OT1}{pzc}{m}{it}
+
+\newcommand{\rot}[1]{{\textcolor{red}{#1}}} 		%rote Schrift
+\newcommand{\frot}[1]{{\bf\textcolor{red}{#1}}}	%fette rote Schrift
+\newcommand{\crot}[1]{{\centering{\textcolor{red}{#1}}\\}} %mittiger roter Text
+\newcommand{\srot}[1]{{\small\textcolor{red}{#1}}} 	%kleiner roter Text
+\newcommand{\csrot}[1]{{\centering{\small\textcolor{red}{#1}}\\}}
+\newcommand{\cen}[1]{{\centering{#1}\\}}
+
+\newcommand{\kap}[1]{{{\centering{\textfrak{\huge{#1}}}\\}}}	%Kapitelüberschriften (z.b. Commune...)
+\newcommand{\kkap}{\renewcommand{\leftmark}}	%Kopfzeile für dieses Kapitel
+
+\newcommand{\resp}{\gresetfirstlineaboveinitial{\small \textcolor{red}{\bf \Rbar \ br.}}{\small \bf \Rbar \ br.}}
+\newcommand{\versik}[2]{{\textcolor{red}{\gothVbar .\ }#1\\}{\indent\textcolor{red}{\gothRbar .\ }#2}}
+\newcommand{\psal}[1]{\crot{Psalmi de #1}}
+\newcommand{\lectio}[1]{\crot{Lectio brevis \hfill #1}}
+\newcommand{\textbox}[1]{\parbox{0.333\textwidth}{#1}}
+\newcommand{\cant}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \frot{\large Canticum}\hfil}\vspace{0.2cm}\textbox{\hfill \rot{#1}}}
+\newcommand{\canti}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \frot{\large Canticum I}\hfil}\vspace{0.2cm}\textbox{\hfill \rot{#1}}}
+\newcommand{\cantii}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \frot{\large Canticum II}\hfil}\vspace{0.2cm}\textbox{\hfill \rot{#1}}}
+\newcommand{\cantiii}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \frot{\large Canticum III}\hfil}\vspace{0.2cm}\textbox{\hfill \rot{#1}}}
+
+
+\input GoudyIn.fd
+\newcommand*\inifamily{\usefont{U}{GoudyIn}{xl}{n}}
+
+\newcommand{\mammut}{\normalfont\inifamily\textcolor{red}} %Befehl für in eine gabc-Datei für Mammut-Initialie
+
+\setlength{\topmargin}{-1em}
+\setlength{\footskip}{0.8cm}
+%\setlength{\footskip}{-1em}
+\settowidth{\versewidth}{inebriabuntur ab ubertate domus tuae, * 123}
+\setlength{\stanzaskip}{3.5pt}
+
+
+\newlength{\saveleftmargini}
+\setlength{\saveleftmargini}{\leftmargini}
+\setlength{\leftmargini}{-1em}
+
+\pagestyle{fancy}
+\setlength{\headheight}{15pt}
+\fancyhead{} % clear all header fields
+\fancyhead[CE]{\footnotesize{\scshape\nouppercase{\leftmark}}}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[CO]{\footnotesize{\scshape\nouppercase{\rightmark}}}
+\fancyfoot{} % clear all footer fields
+%\fancyfoot[CE,CO]{\thepage}
+\renewcommand{\headrulewidth}{0 pt}
+\renewcommand{\footrulewidth}{0 pt}
+
+\titleformat{\section}[block]{\centering\large\sc}{}{1em}{}[]
+\renewcommand{\sectionmark}[1]{\markright{#1}{}}

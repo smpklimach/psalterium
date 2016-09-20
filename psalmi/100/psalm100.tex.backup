@@ -1,0 +1,52 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 100}\\
+Iusti principis confessio\\
+\textit{\small Si diligitis me, mandata mea servate. (Io 14,15)}
+\end{center}
+\begin{verse}[\versewidth]
+Misericórdiam et iudícium cantábo; *\\
+tibi, Dómine, psallam.\\!
+\vin Intéllegam in via immaculáta; *\\
+\vin quando vénies ad me?\\!
+Perambulábam in innocéntia cordis mei, *\\
+in médio domus meæ.\\!
+\vin Non proponébam ante óculos meos rem iniústam, †\\
+\vin faciéntem prævaricatiónes odívi, *\\
+\vin non adhǽsit mihi.\\!
+Cor pravum declinábat a me, *\\
+malígnum non cognoscébam.\\!
+\vin Detrahéntem secréto próximo suo *\\
+\vin hunc cessáre faciébam;\\!
+supérbum óculo et inflátum corde *\\
+hunc non sustinébam.\\!
+\vin Oculi mei ad fidéles terræ, ut sédeant mecum; *\\
+\vin qui ámbulat in via immaculáta, hic mihi ministrábat.\\!
+Non habitábit in médio domus meæ qui facit supérbiam; *\\
+qui lóquitur iníqua non stabit in conspéctu oculórum meórum.\\!
+\vin In matutíno cessáre fáciam omnes peccatóres terræ, *\\
+\vin ut dispérdam de civitáte Dómini omnes operántes iniquitátem.\\
+\end{verse}
+\vspace{1cm}
+
+

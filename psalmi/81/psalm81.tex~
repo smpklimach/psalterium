@@ -1,0 +1,47 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 81}\\
+Contra iudices iniquos\\
+\textit{\small Nolite ante tempus iudicare, quoadusque veniat Dominus. (1 Cor 4,5)}
+\end{center}
+\begin{verse}[\versewidth]
+Deus stetit in concílio divíno, *\\
+in médio deórum iúdicat.\\
+„Usquequo iudicábitis iníque, *\\
+et fácies peccatórum sumétis?\\
+Iudicáte egéno et pupíllo, *\\
+húmilem et páuperem iustificáte.\\
+Erípite páuperem, *\\
+et egénum de manu peccatóris liberáte.“\\
+Nesciérunt neque intellexérunt, in ténebris ámbulant; *\\
+movebúntur ómnia fundaménta terræ.\\
+Ego dixi: „Dii estis, *\\
+et fílii Excélsi omnes.“\\
+Vos autem sicut hómines moriémini, *\\
+et sicut unus de princípibus cadétis.\\
+Surge, Deus, iúdica terram, *\\
+quóniam tu hereditábis in ómnibus géntibus.\\
+\end{verse}
+\vspace{1cm}
+
+

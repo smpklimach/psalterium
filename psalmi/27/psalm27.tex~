@@ -1,0 +1,58 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 27}\\
+Supplicatio et gratiarum actio\\
+\textit{\small Pater, gratias ago tibi, quoniam audisti me. (Io 11,41)}
+\end{center}
+\begin{verse}[\versewidth]
+Ad te, Dómine, clamábo; *\\
+Deus meus, ne síleas a me.\\
+Nequándo táceas a me, *\\
+et assimilábor descendéntibus in lacum.\\
+Exáudi vocem deprecatiónis meæ, dum clamo ad te, *\\
+dum extóllo manus meas ad templum sanctum tuum.\\
+Ne simul trahas me cum peccatóribus, *\\
+et cum operántibus iniquitátem.\\
+Qui loquúntur pacem cum próximo suo, *\\
+mala autem in córdibus eórum.\\
+Da illis secúndum ópera eórum, *\\
+et secúndum nequítiam adinventiónum ipsórum.\\
+Secúndum opus mánuum eórum tríbue illis, *\\
+redde retributiónem eórum ipsis.\\
+Quóniam non intellexérunt ópera Dómini, †\\
+et opus mánuum eius, *\\
+déstruet illos et non ædificábit eos.\\
+Benedíctus Dóminus, †\\
+quóniam exaudívit vocem deprecatiónis meæ; *\\
+Dóminus adiútor meus et protéctor meus,\\
+in ipso sperávit cor meum et adiútus sum, †\\
+et exsultávit cor meum, *\\
+et in cántico meo confitébor ei.\\
+Dóminus fortitúdo plebi suæ, *\\
+et refúgium salvatiónum christi sui est.\\
+Salvum fac pópulum tuum, et bénedic hereditáti tuæ, *\\
+et pasce eos et extólle illos usque in ætérnum.\\
+\end{verse}
+\vspace{1cm}
+
+

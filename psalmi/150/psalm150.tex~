@@ -1,0 +1,42 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 150}\\
+Laudate Dominum\\
+\textit{\small Psallite spiritu, psallite et mente, hoc est: glorificate Deum et anima et corpore vestro. (Hesychius)}
+\end{center}
+\begin{verse}[\versewidth]
+Laudáte Dóminum in sanctuário eius, *\\
+laudáte eum in firmaménto virtútis eius.\\
+Laudáte eum in magnálibus eius, *\\
+laudáte eum secúndum multitúdinem magnitúdinis eius.\\
+Laudáte eum in sono tubæ, *\\
+laudáte eum in psaltério et cíthara,\\
+laudáte eum in týmpano et choro, *\\
+laudáte eum in chordis et órgano,\\
+laudáte eum in cýmbalis benesonántibus, †\\
+laudáte eum in cýmbalis iubilatiónis: *\\
+omne quod spirat, laudet Dóminum.\\
+\end{verse}
+\vspace{1cm}
+
+

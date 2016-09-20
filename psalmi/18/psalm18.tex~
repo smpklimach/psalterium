@@ -1,0 +1,72 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 18 A}\\
+Laus Domini rerum conditoris\\
+\textit{\small Visitavit nos Oriens ex alto… ad dirigendos pedes nostros in viam pacis. (Lc 1,78-79)}
+\end{center}
+\begin{verse}[\versewidth]
+Cæli enárrant glóriam Dei, *\\
+et ópera mánuum eius annúntiat firmaméntum.\\!
+\vin Dies diéi erúctat verbum, *\\
+\vin et nox nocti índicat sciéntiam.\\!
+Non sunt loquélæ neque sermónes *\\
+quórum non intellegántur voces.\\!
+\vin In omnem terram exívit sonus eórum, *\\
+\vin et in fines orbis terræ verba eórum.\\!
+Soli pósuit tabernáculum in eis, †\\
+et ipse tamquam sponsus procédens de thálamo suo, *\\
+exsultávit ut gigas ad curréndam viam.\\!
+\vin A fínibus cælórum egréssio eius, †\\
+\vin et occúrsus eius usque ad fines eórum, *\\
+\vin nec est quod abscondátur a calóre eius.\\!
+\end{verse}
+\vspace{1cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 18 B}\\
+Laus Deo, legis Domino\\
+\textit{\small Estote vos perfecti, sicut et Pater vester cælestis perfectus est. (Mt 5,48)}
+\end{center}
+\begin{verse}[\versewidth]
+Lex Dómini immaculáta, refíciens ánimam, *\\
+testimónium Dómini fidéle, sapiéntiam præstans párvulis.\\!
+\vin Iustítiæ Dómini rectæ, lætificántes corda, *\\
+\vin præcéptum Dómini lúcidum, illúminans óculos.\\!
+Timor Dómini mundus, pérmanens in sǽculum sǽculi, *\\
+iudícia Dómini vera, iusta ómnia simul,\\!
+\vin desiderabília super aurum et lápidem pretiósum multum, *\\
+\vin et dulcióra super mel et favum stillántem.\\!
+Etenim servus tuus erudítur in eis, *\\
+in custodiéndis illis retribútio multa.\\!
+\vin Erróres quis intéllegit? †\\
+\vin Ab occúltis munda me, *\\
+\vin et a supérbia custódi servum tuum, ne dominétur mei.\\!
+Tunc immaculátus ero, *\\
+et emundábor a delícto máximo.\\!
+\vin Sint, ut compláceant elóquia oris mei, *\\
+\vin et meditátio cordis mei in conspéctu tuo.\\!
+Dómine, adiútor meus *\\
+et redémptor meus.\\
+\end{verse}
+\vspace{1cm}
+
+

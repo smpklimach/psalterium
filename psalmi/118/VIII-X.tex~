@@ -1,0 +1,83 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{118/alleluia3.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf VIII}
+\end{center}
+\begin{verse}[\versewidth]
+Pórtio mea Dóminus: *\\
+dixi custodíre verba tua.\\!
+\vin Deprecátus sum fáciem tuam in toto corde meo; *\\
+\vin miserére mei secúndum elóquium tuum.\\!
+Cogitávi vias meas, *\\
+et convérti pedes meos in testimónia tua.\\!
+\vin Festinávi et non sum morátus, *\\
+\vin ut custódiam præcépta tua.\\!
+Funes peccatórum circumpléxi sunt me, *\\
+et legem tuam non sum oblítus.\\!
+\vin Média nocte surgébam ad confiténdum tibi *\\
+\vin super iudícia iustítiæ tuæ.\\!
+Párticeps ego sum ómnium timéntium te *\\
+et custodiéntium mandáta tua.\\!
+\vin Misericórdia tua, Dómine, plena est terra; *\\
+\vin iustificatiónes tuas doce me.\\
+\begin{center}
+\textcolor{red}{\bf IX}\\
+\end{center}
+Bonitátem fecísti cum servo tuo, Dómine, *\\
+secúndum verbum tuum.\\!
+\vin Bonitátem et prudéntiam et sciéntiam doce me, *\\
+\vin quia præcéptis tuis crédidi.\\!
+Priúsquam humiliárer ego errávi; *\\
+nunc autem elóquium tuum custódiam.\\!
+\vin Bonus es tu et benefáciens, *\\
+\vin doce me iustificatiónes tuas.\\!
+Excogitavérunt contra me dolósa supérbi, *\\
+ego autem in toto corde meo servábo mandáta tua.\\!
+\vin Incrassátum est sicut adeps cor eórum, *\\
+\vin ego vero in lege tua delectátus sum.\\!
+Bonum mihi quia humiliátus sum, *\\
+ut discam iustificatiónes tuas.\\!
+\vin Bonum mihi lex oris tui, *\\
+\vin super mília auri et argénti.\\
+\begin{center}
+\textcolor{red}{\bf X}\\
+\end{center}
+Manus tuæ fecérunt me et plasmavérunt me; *\\
+da mihi intelléctum, et discam præcépta tua.\\!
+\vin Qui timent te, vidébunt me et lætabúntur, *\\
+\vin quia in verba tua supersperávi.\\!
+Cognóvi, Dómine, quia ǽquitas iudícia tua, *\\
+et in veritáte humiliásti me.\\!
+\vin Fiat misericórdia tua ut consolétur me, *\\
+\vin secúndum elóquium tuum servo tuo.\\!
+Véniant mihi miseratiónes tuæ et vivam, *\\
+quia lex tua delectátio mea est.\\!
+\vin Confundántur supérbi, quóniam dolóse pervertérunt me, *\\
+\vin ego autem exercébor in mandátis tuis.\\!
+Convertántur mihi timéntes te, *\\
+et qui novérunt testimónia tua.\\!
+\vin Fiat cor meum immaculátum in iustificatiónibus tuis, *\\
+\vin ut non confúndar.\\
+\end{verse}
+\vspace{1cm}
+
+

@@ -1,0 +1,46 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 53}\\
+Imploratio auxilii\\
+\textit{\small Orat propheta, ut in nomine Domini a persequentium malignitate liberetur. (Cassiodorus)}
+\end{center}
+\begin{verse}[\versewidth]
+Deus, in nómine tuo salvum me fac, *\\
+et in virtúte tua iúdica me.\\
+Deus, exáudi oratiónem meam, *\\
+áuribus pércipe verba oris mei.\\
+Quóniam supérbi insurrexérunt advérsum me, †\\
+et fortes quæsiérunt ánimam meam, *\\
+et non proposuérunt Deum ante conspéctum suum.\\
+Ecce enim Deus ádiuvat me, *\\
+et Dóminus suscéptor est ánimæ meæ.\\
+Convérte mala super inimícos meos, *\\
+et in veritáte tua dispérde illos.\\
+Voluntárie sacrificábo tibi, *\\
+confitébor nómini tuo, Dómine, quóniam bonum est;\\
+quóniam ex omni tribulatióne erípuit me, *\\
+et super inimícos meos despéxit óculus meus.\\
+\end{verse}
+\vspace{1cm}
+
+

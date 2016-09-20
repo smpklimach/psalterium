@@ -1,0 +1,64 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf viij. T.}{\small \bf viij. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{142/ps142.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 142}\\
+In angustiis oratio\\
+\textit{\small Non iustificatur homo ex operibus legis, nisi per fidem Iesu Christi. (Gal 2,16)}
+\end{center}
+\begin{verse}[\versewidth]
+Dómine, exáudi oratiónem meam, †\\
+áuribus pércipe obsecratiónem meam in veritáte tua; *\\
+exáudi me in tua iustítia.\\
+\vin Et non intres in iudícium cum servo tuo, *\\
+\vin quia non iustificábitur in conspéctu tuo omnis vivens.\\
+Quia persecútus est inimícus ánimam meam, †\\
+contrívit in terra vitam meam, *\\
+collocávit me in obscúris sicut mórtuos a sǽculo.\\
+\vin Et anxiátus est in me spíritus meus, *\\
+\vin in médio mei obríguit cor meum.\\
+Memor fui diérum antiquórum, †\\
+meditátus sum in ómnibus opéribus tuis, *\\
+in factis mánuum tuárum recogitábam.\\
+\vin Expándi manus meas ad te, *\\
+\vin ánima mea sicut terra sine aqua tibi.\\
+Velóciter exáudi me, Dómine; *\\
+defécit spíritus meus.\\
+\vin Non abscóndas fáciem tuam a me, *\\
+\vin ne símilis fiam descendéntibus in lacum.\\
+Audítam fac mihi mane misericórdiam tuam, *\\
+quia in te sperávi.\\
+\vin Notam fac mihi viam in qua ámbulem, *\\
+\vin quia ad te levávi ánimam meam.\\
+Eripe me de inimícis meis, *\\
+Dómine, ad te confúgi.\\
+\vin Doce me fácere beneplácitum tuum, †\\
+\vin quia Deus meus es tu. *\\
+\vin Spíritus tuus bonus dedúcat me in terram rectam.\\
+Propter nomen tuum, Dómine, vivificábis me; *\\
+in iustítia tua edúces de tribulatióne ánimam meam:\\
+\vin et in misericórdia tua dispérdes inimícos meos, †\\
+\vin et perdes omnes qui tríbulant ánimam meam, *\\
+\vin quóniam ego servus tuus sum.\\
+\end{verse}
+\vspace{1cm}
+
+

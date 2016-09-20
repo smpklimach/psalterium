@@ -1,0 +1,58 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf ij. T.}{\small \bf ij. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{59/danobis5960.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 59}\\
+Post calamitatem oratio\\
+\textit{\small In mundo pressuram habebitis, sed confidite: Ego vici mundum. (Io 16,33)}
+\end{center}
+\begin{verse}[\versewidth]
+Deus, reppulísti nos, destruxísti nos; *\\
+irátus es: convértere ad nos.\\
+Concussísti terram, confregísti eam, *\\
+sana contritiónes eius, quia commóta est.\\
+Ostendísti pópulo tuo dura, *\\
+potásti nos vino vertíginis.\\
+Dedísti metuéntibus te signum, *\\
+ut fúgiant a fácie arcus.\\
+Ut liberéntur dilécti tui, *\\
+salvos fac déxtera tua et exáudi nos.\\
+Deus locútus est in sancto suo: †\\
+„Lætábor et partíbor Síchimam, *\\
+et convállem Succoth metíbor.\\
+Meus est Gálaad, et meus est Manásses, *\\
+et Ephraim fortitúdo cápitis mei.\\
+Iuda sceptrum meum, *\\
+Moab olla lavácri mei.\\
+Super Idumǽam exténdam calceaméntum meum, *\\
+super Philístiim vociferábor.“\\
+Quis addúcet me in civitátem munítam? *\\
+Quis dedúcet me usque in Idumǽam?\\
+Nonne tu, Deus, qui reppulísti nos, *\\
+et non egrediéris, Deus, in virtútibus nostris?\\
+Da nobis auxílium de tribulatióne, *\\
+quia vana salus hóminis.\\
+In Deo faciémus virtútem, *\\
+et ipse conculcábit tribulántes nos.\\
+\end{verse}
+\vspace{1cm}
+
+

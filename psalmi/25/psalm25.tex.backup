@@ -1,0 +1,56 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 25}\\
+Innocentis fiducia et oratio\\
+\textit{\small Elegit nos Deus in Christo, ut simus sancti et immaculati. (Eph 1,4)}
+\end{center}
+\begin{verse}[\versewidth]
+Iúdica me, Dómine, †\\
+quóniam ego in innocéntia mea ingréssus sum, *\\
+et in Dómino sperans non infirmábor.\\!
+\vin Proba me, Dómine, et tenta me; *\\
+\vin ure renes meos et cor meum.\\!
+Quóniam misericórdia tua ante óculos meos est, *\\
+et ambulávi in veritáte tua.\\!
+\vin Non sedi cum viris vanitátis, *\\
+\vin et cum occúlte agéntibus non introíbo.\\!
+Odívi ecclésiam malignántium, *\\
+et cum ímpiis non sedébo.\\!
+\vin Lavábo in innocéntia manus meas, *\\
+\vin et circúmdabo altáre tuum, Dómine,\\!
+ut audítas fáciam voces laudis, *\\
+et enárrem univérsa mirabília tua.\\!
+\vin Dómine, diléxi habitáculum domus tuæ, *\\
+\vin et locum habitatiónis glóriæ tuæ.\\!
+Ne cólligas cum ímpiis ánimam meam, *\\
+et cum viris sánguinum vitam meam.\\!
+\vin In quorum mánibus iniquitátes sunt, *\\
+\vin déxtera eórum repléta est munéribus.\\!
+Ego autem in innocéntia mea ingréssus sum, *\\
+rédime me et miserére mei.\\!
+\vin Pes meus stetit in dirécto, *\\
+\vin in ecclésiis benedícam Dómino.\\
+\end{verse}
+\vspace{1cm}
+
+

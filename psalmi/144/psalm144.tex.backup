@@ -1,0 +1,109 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 8. T.}{\small \bf 8. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{144/inaeternum.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 144 A}\\
+Laus divinæ maiestatis\\
+\textit{\small Iustus es, Domine, qui es et qui eras. (Ap 16,5)}
+\end{center}
+\begin{verse}[\versewidth]
+Exaltábo te, Deus meus rex, †\\
+et benedícam nómini tuo *\\
+in s\'{æ}culum et in s\'{æ}culum s\'{æ}culi.\\
+\vin Per síngulos dies benedícam tibi, †\\
+\vin et laudábo nomen tuum *\\
+\vin in s\'{æ}culum et in s\'{æ}culum s\'{æ}culi.\\
+Magnus Dóminus et laudábilis nimis, *\\
+et magnitúdinis eius non est investigátio.\\
+\vin Generátio generatióni laudábit ópera tua, *\\
+\vin et poténtiam tuam pronuntiábunt.\\
+Magnificéntiam glóriæ maiestátis tuæ loquéntur, *\\
+et mirabília tua enarrábunt.\\
+\vin Et virtútem terribílium tuórum dicent, *\\
+\vin et magnitúdinem tuam narrábunt.\\
+Memóriam abundántiæ suavitátis tuæ eructábunt, *\\
+et iustítia tua exsultábunt.\\
+\vin Miserátor et miséricors Dóminus, *\\
+\vin longánimis et multæ misericórdiæ.\\
+Suávis Dóminus univérsis, *\\
+et miseratiónes eius super ómnia ópera eius.\\
+\vin Confiteántur tibi, Dómine, ómnia ópera tua; *\\
+\vin et sancti tui benedícant tibi.\\
+Glóriam regni tui dicant, *\\
+et poténtiam tuam loquántur,\\
+\vin ut notas fáciant fíliis hóminum poténtias tuas, *\\
+\vin et glóriam magnificéntiæ regni tui.\\
+Regnum tuum regnum ómnium s\'{æ}culórum, *\\
+et dominátio tua in omnem generatiónem et generatiónem.\\
+\end{verse}
+\vspace{1cm}
+
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 4. T.}{\small \bf 4. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{144/custoditdominus2.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 144 B}\\
+Laus divinæ maiestatis\\
+\textit{\small Iustus es, Domine, qui es et qui eras. (Ap 16,5)}
+\end{center}
+\begin{verse}[\versewidth]
+Fidélis Dóminus in ómnibus verbis suis, *\\
+et sanctus in ómnibus opéribus suis.\\!
+\vin Allevat Dóminus omnes qui córruunt, *\\
+\vin et érigit omnes depréssos.\\!
+Oculi ómnium in te sperant, *\\
+et tu das illis escam in témpore opportúno.\\!
+\vin Aperis tu manum tuam, *\\
+\vin et imples omne ánimal in beneplácito.\\!
+Iustus Dóminus in ómnibus viis suis, *\\
+et sanctus in ómnibus opéribus suis.\\!
+\vin Prope est Dóminus ómnibus invocántibus eum, *\\
+\vin ómnibus invocántibus eum in veritáte.\\!
+Voluntátem timéntium se fáciet, †\\
+et deprecatiónem eórum exáudiet, *\\
+et salvos fáciet eos.\\!
+\vin Custódit Dóminus omnes diligéntes se, *\\
+\vin et omnes peccatóres dispérdet.\\!
+Laudatiónem Dómini loquétur os meum, †\\
+et benedícat omnis caro nómini sancto eius *\\
+in sǽculum et in sǽculum sǽculi.\\
+\end{verse}
+\vspace{1cm}
+
+

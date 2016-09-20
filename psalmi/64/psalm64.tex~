@@ -1,0 +1,63 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 64}\\
+Sollemnis gratiarum actio\\
+\textit{\small In Sion intellege cælicam civitatem. (Origenes)}
+\end{center}
+\begin{verse}[\versewidth]
+Te decet hymnus, Deus, in Sion; *\\
+et tibi reddétur votum in Ierúsalem.\\
+Qui audis oratiónem, *\\
+ad te omnis caro véniet propter iniquitátem.\\
+Etsi prævaluérunt super nos impietátes nostræ, *\\
+tu propitiáberis eis.\\
+Beátus quem elegísti et assumpsísti, *\\
+inhabitábit in átriis tuis.\\
+Replébimur bonis domus tuæ, *\\
+sanctitáte templi tui.\\
+Mirabíliter in æquitáte exáudies nos, Deus salútis nostræ, *\\
+spes ómnium fínium terræ et maris longínqui.\\
+Firmans montes in virtúte tua, *\\
+accínctus poténtia.\\
+Compéscens sónitum maris, sónitum flúctuum eius *\\
+et tumúltum populórum.\\
+Et timébunt qui hábitant términos terræ a signis tuis; *\\
+éxitus oriéntis et occidéntis delectábis.\\
+Visitásti terram, et inebriásti eam; *\\
+multiplicásti locupletáre eam.\\
+Flumen Dei replétum est aquis; †\\
+parásti fruménta illórum, *\\
+quóniam ita parásti eam.\\
+Sulcos eius írrigans, glebas eius complánans; *\\
+ímbribus emóllis eam, benedícis gérmini eius.\\
+Coronásti annum benignitáte tua, *\\
+et vestígia tua stillábunt pinguédinem.\\
+Stillábunt páscua desérti, *\\
+et exsultatióne colles accingéntur.\\
+Indúta sunt óvibus prata, †\\
+et valles abundábunt fruménto; *\\
+clamábunt, étenim hymnum dicent.\\
+\end{verse}
+\vspace{1cm}
+
+

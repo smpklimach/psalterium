@@ -1,0 +1,51 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 46}\\
+Dominus universorum rex\\
+\textit{\small Sedet ad dexteram Patris, et regni eius non erit finis. (cf. Symbolum Nicænoconstantinopolitanum)}
+\end{center}
+\begin{verse}[\versewidth]
+Omnes gentes, pláudite mánibus, *\\
+iubiláte Deo in voce exsultatiónis.\\
+Quóniam Dóminus Altíssimus, terríbilis, *\\
+rex magnus super omnem terram.\\
+Subiécit pópulos nobis, *\\
+et gentes sub pédibus nostris.\\
+Elégit nobis hereditátem nostram, *\\
+glóriam Iacob quem diléxit.\\
+Ascéndit Deus in iúbilo, *\\
+et Dóminus in voce tubæ.\\
+Psállite Deo, psállite; *\\
+psállite regi nostro, psállite.\\
+Quóniam rex omnis terræ Deus, *\\
+psállite sapiénter.\\
+Regnávit Deus super gentes, *\\
+Deus sedet super sedem sanctam suam.\\
+Príncipes populórum congregáti sunt *\\
+cum pópulo Dei Abraham,\\
+quóniam Dei sunt scuta terræ: *\\
+veheménter elevátus est.\\
+\end{verse}
+\vspace{1cm}
+
+

@@ -1,0 +1,66 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 94}\\
+Invitatio ad laudem Dei\\
+\textit{\small Adhortamini vosmetipsos per singulos dies, donec „hodie“ cognominatur. (Hebr 3,13)}
+\end{center}
+\begin{verse}[\versewidth]
+Proponitur et repetitur versus invitatorius.\\
+Veníte, exsultémus Dómino; *\\
+iubilémus Deo salutári nostro.\\
+Præoccupémus fáciem eius in confessióne, *\\
+et in psalmis iubilémus ei.\\
+Repetitur totus versus invitatorius.\\
+Quóniam Deus magnus Dóminus, *\\
+et rex magnus super omnes deos.\\
+Quia in manu eius sunt profúnda terræ, *\\
+et altitúdines móntium ipsíus sunt.\\
+Quóniam ipsíus est mare, et ipse fecit illud, *\\
+et siccam manus eius formavérunt.\\
+Repetitur secunda pars versus invitatorii.\\
+Veníte, adorémus et procidámus, *\\
+et génua flectámus ante Dóminum qui fecit nos,\\
+quia ipse est Deus noster, *\\
+et nos pópulus páscuæ eius et oves manus eius.\\
+Repetitur totus versus invitatorius.\\
+Utinam hódie vocem eius audiátis: *\\
+„Nolíte obduráre corda vestra,\\
+sicut in Meríba secúndum diem Massa in desérto, †\\
+ubi tentavérunt me patres vestri: *\\
+probavérunt me, etsi vidérunt ópera mea.\\
+Repetitur secunda pars versus invitatorii.\\
+Quadragínta annis tǽduit me generatiónis illíus, *\\
+et dixi: Pópulus errántium corde sunt isti.\\
+Et ipsi non cognovérunt vias meas; †\\
+ídeo iurávi in ira mea: *\\
+Non introíbunt in réquiem meam.“\\
+Repetitur totus versus invitatorius.\\
+Glória Patri, et Fílio, *\\
+et Spirítui Sancto.\\
+Sicut erat in princípio, et nunc et semper, *\\
+et in sǽcula sæculórum. Amen.\\
+Repetitur secunda pars versus invitatorii. Tunc proponitur prima pars ab invitatore et chorus addit secundam partem.\\
+\end{verse}
+\vspace{1cm}
+
+

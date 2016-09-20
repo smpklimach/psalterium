@@ -1,0 +1,91 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 72}\\
+Cur iustus vexetur\\
+\textit{\small Beatus est qui non fuerit scandalizatus in me. (Mt 11,6)}
+\end{center}
+\begin{verse}[\versewidth]
+Quam bonus rectis est Deus, *\\
+Deus his qui mundo sunt corde!\\!
+\vin Mei autem pæne moti sunt pedes, *\\
+\vin pæne effúsi sunt gressus mei.\\!
+Quia zelávi super gloriántes, *\\
+pacem peccatórum videns.\\!
+\vin Quia non sunt eis impediménta, *\\
+\vin sanus et pinguis est venter eórum.\\!
+In labóre mortálium non sunt, *\\
+et cum homínibus non flagellántur.\\!
+\vin Ideo quasi torques est eis supérbia, *\\
+\vin et tamquam induméntum opéruit eos violéntia.\\!
+Prodit quasi ex ádipe iníquitas eórum, *\\
+erúmpunt cogitatiónes cordis.\\!
+\vin Subsannavérunt, et locúti sunt nequítiam, *\\
+\vin iniquitátem in excélso locúti sunt.\\!
+Posuérunt in cælo os suum, *\\
+et lingua eórum transívit in terra.\\!
+\vin Ideo in alto sedent, *\\
+\vin et aquæ plenæ non pervénient ad eos.\\!
+Et dixérunt: „Quómodo scit Deus, *\\
+et si est sciéntia in Excélso?“\\!
+\vin Ecce ipsi peccatóres et abundántes in sǽculo, *\\
+\vin multiplicavérunt divítias.\\
+II
+Et dixi: „Ergo sine causa mundávi cor meum, *\\
+et lavi in innocéntia manus meas;\\!
+\vin et fui flagellátus tota die, *\\
+\vin et castigátio mea in matutínis.“\\!
+Si dixíssem: „Loquar ut illi“, *\\
+ecce generatiónem filiórum tuórum prodidíssem.\\!
+\vin Et cogitábam, ut cognóscerem hoc; *\\
+\vin labor erat in óculis meis,\\!
+donec intrávi in sanctuárium Dei, *\\
+et intelléxi novíssima eórum.\\!
+\vin Verúmtamen in lúbrico posuísti eos, *\\
+\vin deiecísti eos in ruínas.\\!
+Quómodo facti sunt in desolatiónem, *\\
+súbito defecérunt, periérunt præ horróre.\\!
+\vin Velut sómnium evigilántis, Dómine, *\\
+\vin surgens imáginem ipsórum contémnes.\\
+III
+Quia exacerbátum est cor meum, *\\
+et renes mei compúncti sunt;\\!
+\vin et ego insípiens factus sum, et nescívi: *\\
+\vin ut iuméntum factus sum apud te.\\!
+Ego autem semper tecum; *\\
+tenuísti manum déxteram meam.\\!
+\vin In consílio tuo dedúces me, *\\
+\vin et póstea cum glória suscípies me.\\!
+Quis enim mihi est in cælo? *\\
+Et apud te nihil vólui super terram.\\!
+\vin Defécit caro mea et cor meum; *\\
+\vin Deus cordis mei, et pars mea Deus in ætérnum.\\!
+Quia ecce, qui elóngant se a te, períbunt, *\\
+perdidísti omnes qui fornicántur abs te.\\!
+\vin Mihi autem adhærére Deo bonum est, *\\
+\vin pónere in Dómino Deo spem meam,\\!
+ut annúntiem omnes operatiónes tuas *\\
+in portis fíliæ Sion.\\
+\end{verse}
+\vspace{1cm}
+
+

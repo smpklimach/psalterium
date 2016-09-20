@@ -1,0 +1,85 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{135/quoniaminaeternum.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 135}\\
+Hymnus paschalis\\
+\textit{\small Domini res gestas narrare, laudare est. (Cassiodorus)}
+\end{center}
+\begin{verse}[\versewidth]
+Confitémini Dómino, quóniam bonus, *\\
+quóniam in ætérnum misericórdia eius.\\
+Confitémini Deo deórum, *\\
+quóniam in ætérnum misericórdia eius.\\
+Confitémini Dómino dominórum, *\\
+quóniam in ætérnum misericórdia eius.\\
+Qui facit mirabília magna solus, *\\
+quóniam in ætérnum misericórdia eius.\\
+Qui fecit cælos in intelléctu, *\\
+quóniam in ætérnum misericórdia eius.\\
+Qui expándit terram super aquas, *\\
+quóniam in ætérnum misericórdia eius.\\
+Qui fecit luminária magna, *\\
+quóniam in ætérnum misericórdia eius;\\
+solem, ut præésset diéi, *\\
+quóniam in ætérnum misericórdia eius;\\
+lunam et stellas, ut præéssent nocti, *\\
+quóniam in ætérnum misericórdia eius.\\
+II
+Qui percússit Ægýptum in primogénitis eórum, *\\
+quóniam in ætérnum misericórdia eius.\\
+Qui edúxit Israel de médio eórum, *\\
+quóniam in ætérnum misericórdia eius;\\
+in manu poténti et brácchio exténto, *\\
+quóniam in ætérnum misericórdia eius.\\
+Qui divísit mare Rubrum in divisiónes, *\\
+quóniam in ætérnum misericórdia eius.\\
+Et tradúxit Israel per médium eius, *\\
+quóniam in ætérnum misericórdia eius.\\
+Et excússit Pharaónem et virtútem eius in mari Rubro, *\\
+quóniam in ætérnum misericórdia eius.\\
+III
+Qui tradúxit pópulum suum per desértum, *\\
+quóniam in ætérnum misericórdia eius.\\
+Qui percússit reges magnos, *\\
+quóniam in ætérnum misericórdia eius;\\
+et occídit reges poténtes, *\\
+quóniam in ætérnum misericórdia eius;\\
+Sehon regem Amorrhæórum, *\\
+quóniam in ætérnum misericórdia eius;\\
+et Og regem Basan, *\\
+quóniam in ætérnum misericórdia eius.\\
+Et dedit terram eórum hereditátem, *\\
+quóniam in ætérnum misericórdia eius;\\
+hereditátem Israel servo suo, *\\
+quóniam in ætérnum misericórdia eius.\\
+Qui in humilitáte nostra memor fuit nostri, *\\
+quóniam in ætérnum misericórdia eius;\\
+et redémit nos ab inimícis nostris, *\\
+quóniam in ætérnum misericórdia eius.\\
+Qui dat escam omni carni, *\\
+quóniam in ætérnum misericórdia eius.\\
+Confitémini Deo cæli, *\\
+quóniam in ætérnum misericórdia eius.\\
+\end{verse}
+\vspace{1cm}
+
+

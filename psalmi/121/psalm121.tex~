@@ -1,0 +1,49 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 121}\\
+Civitas sancta Ierusalem\\
+\textit{\small Accessistis ad Sion montem et civitatem Dei viventis, Ierusalem cælestem. (Hebr 12,22)}
+\end{center}
+\begin{verse}[\versewidth]
+Lætátus sum in eo quod dixérunt mihi: *\\
+„In domum Dómini íbimus.“\\
+Stantes iam sunt pedes nostri *\\
+in portis tuis, Ierúsalem.\\
+Ierúsalem, quæ ædificáta est ut cívitas *\\
+sibi compácta in idípsum.\\
+Illuc enim ascendérunt tribus, tribus Dómini, *\\
+testimónium Israel, ad confiténdum nómini Dómini.\\
+Quia illic sedérunt sedes ad iudícium, *\\
+sedes domus David.\\
+Rogáte quæ ad pacem sunt Ierúsalem, *\\
+secúri sint diligéntes te.\\
+Fiat pax in muris tuis, *\\
+et secúritas in túrribus tuis.\\
+Propter fratres meos et próximos meos *\\
+loquar: „Pax in te!“\\
+Propter domum Dómini Dei nostri *\\
+exquíram bona tibi.\\
+\end{verse}
+\vspace{1cm}
+
+

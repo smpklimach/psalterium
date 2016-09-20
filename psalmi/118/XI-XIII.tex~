@@ -1,0 +1,83 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{118/alleluia4.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{ \bf XI}
+\end{center}
+\begin{verse}[\versewidth]
+Defécit in salutáre tuum ánima mea, *\\
+et in verbum tuum supersperávi.\\!
+\vin Defecérunt óculi mei in elóquium tuum, *\\
+\vin dicéntes: „Quando consoláberis me?“\\!
+Quia factus sum sicut uter in fumo; *\\
+iustificatiónes tuas non sum oblítus.\\!
+\vin Quot sunt dies servi tui? *\\
+\vin Quando fácies de persequéntibus me iudícium?\\!
+Fodérunt mihi fóveas supérbi, *\\
+qui non sunt secúndum legem tuam.\\!
+\vin Omnia præcépta tua véritas; *\\
+\vin dolóse persecúti sunt me: ádiuva me.\\!
+Paulo minus consummavérunt me in terra, *\\
+ego autem non derelíqui mandáta tua.\\!
+\vin Secúndum misericórdiam tuam vivífica me, *\\
+\vin et custódiam testimónia oris tui.\\
+\begin{center}
+\textcolor{red}{\bf XII}\\
+\end{center}
+In ætérnum, Dómine, *\\
+verbum tuum constitútum est in cælo.\\!
+\vin In generatiónem et generatiónem véritas tua; *\\
+\vin firmásti terram, et pérmanet.\\!
+Secúndum iudícia tua pérmanent hódie, *\\
+quóniam ómnia sérviunt tibi.\\!
+\vin Nisi quod lex tua delectátio mea est, *\\
+\vin tunc forte periíssem in humiliatióne mea.\\!
+In ætérnum non oblivíscar mandáta tua, *\\
+quia in ipsis vivificásti me.\\!
+\vin Tuus sum ego: salvum me fac, *\\
+\vin quóniam mandáta tua exquisívi.\\!
+Me exspectavérunt peccatóres, ut pérderent me; *\\
+testimónia tua intelléxi.\\!
+\vin Omnis consummatiónis vidi finem, *\\
+\vin latum præcéptum tuum nimis.\\
+\begin{center}
+\textcolor{red}{\bf XIII}\\
+\end{center}
+Quómodo diléxi legem tuam, Dómine; *\\
+tota die meditátio mea est.\\!
+\vin Super inimícos meos sapiéntem me fecit præcéptum tuum, *\\
+\vin quia in ætérnum mihi est.\\!
+Super omnes docéntes me prudens factus sum, *\\
+quia testimónia tua meditátio mea est.\\!
+\vin Super senes intelléxi, *\\
+\vin quia mandáta tua servávi.\\!
+Ab omni via mala prohíbui pedes meos, *\\
+ut custódiam verba tua.\\!
+\vin A iudíciis tuis non declinávi, *\\
+\vin quia tu legem posuísti mihi.\\!
+Quam dúlcia fáucibus meis elóquia tua, *\\
+super mel ori meo.\\!
+\vin A mandátis tuis intelléxi; *\\
+\vin proptérea odívi omnem viam mendácii.\\
+\end{verse}
+\vspace{1cm}
+
+

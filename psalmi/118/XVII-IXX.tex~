@@ -1,0 +1,83 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{118/aspiceinme17.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\bf XVII}
+\end{center}
+\begin{verse}[\versewidth]
+Mirabília testimónia tua, *\\
+ídeo servávit ea ánima mea.\\!
+\vin Declarátio sermónum tuórum illúminat, *\\
+\vin et intelléctum dat párvulis.\\!
+Os meum apérui et attráxi spíritum, *\\
+quia præcépta tua desiderábam.\\!
+\vin Convértere in me et miserére mei *\\
+\vin secúndum iudícium tuum cum diligéntibus nomen tuum.\\!
+Gressus meos dírige secúndum elóquium tuum, *\\
+et non dominétur mei omnis iníquitas.\\!
+\vin Rédime me a calúmniis hóminum, *\\
+\vin ut custódiam mandáta tua.\\!
+Fáciem tuam illúmina super servum tuum, *\\
+et doce me iustificatiónes tuas.\\!
+\vin Rívulos aquárum deduxérunt óculi mei, *\\
+\vin quia non custodiérunt legem tuam.\\
+\begin{center}
+\textcolor{red}{\bf XVIII}\\
+\end{center}
+Iustus es, Dómine, *\\
+et rectus in iudíciis tuis.\\!
+\vin Mandásti in iustítia testimónia tua, *\\
+\vin et in veritáte nimis.\\!
+Consúmpsit me zelus meus, *\\
+quia oblíti sunt verba tua inimíci mei.\\!
+\vin Ignítum elóquium tuum veheménter, *\\
+\vin et servus tuus diléxit illud.\\!
+Adulescéntulus sum ego et contémptus; *\\
+mandáta tua non sum oblítus.\\!
+\vin Iustítia tua iustítia in ætérnum, *\\
+\vin et lex tua véritas.\\!
+Tribulátio et angústia invenérunt me; *\\
+præcépta tua delectátio mea est.\\!
+\vin Iustítia testimónia tua in ætérnum; *\\
+\vin intelléctum da mihi, et vivam.\\
+\begin{center}
+\textcolor{red}{\bf XIX}\\
+\end{center}
+Clamávi in toto corde, exáudi me, Dómine; *\\
+iustificatiónes tuas servábo.\\!
+\vin Clamávi ad te, salvum me fac, *\\
+\vin ut custódiam testimónia tua.\\!
+Prævéni dilúculo et clamávi, *\\
+in verba tua supersperávi.\\!
+\vin Prævenérunt óculi mei vigílias, *\\
+\vin ut meditárer elóquia tua.\\!
+Vocem meam audi secúndum misericórdiam tuam, Dómine, *\\
+secúndum iudícium tuum vivífica me.\\!
+\vin Appropinquavérunt persequéntes me in malítia, *\\
+\vin a lege autem tua longe facti sunt.\\!
+Prope es tu, Dómine, *\\
+et ómnia præcépta véritas.\\!
+\vin Ab inítio cognóvi de testimóniis tuis, *\\
+\vin quia in ætérnum fundásti ea.\\
+\end{verse}
+\vspace{1cm}
+
+

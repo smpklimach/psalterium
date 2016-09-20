@@ -1,0 +1,71 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{131/etomnismansutudiniseius.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 131}\\
+Divina promissa domui David data\\
+\textit{\small Dabit illi Dominus Deus sedem David patris eius. (Lc 1,32)}
+\end{center}
+\begin{verse}[\versewidth]
+Meménto, Dómine, David *\\
+et omnis mansuetúdinis eius.\\
+Quia iurávit Dómino, *\\
+votum vovit Poténti Iacob:\\
+„Non introíbo in tabernáculum domus meæ, *\\
+non ascéndam in lectum strati mei;\\
+non dabo somnum óculis meis *\\
+et pálpebris meis dormitatiónem,\\
+donec invéniam locum Dómino, *\\
+tabernáculum Poténti Iacob.“\\
+Ecce audívimus eam esse in Ephrata, *\\
+invénimus eam in campis Iaar.\\
+Ingrediámur in tabernáculum eius, *\\
+adorémus ad scabéllum pedum eius.\\
+Surge, Dómine, in réquiem tuam, *\\
+tu et arca fortitúdinis tuæ.\\
+Sacerdótes tui induántur iustítiam, *\\
+et sancti tui exsúltent.\\
+Propter David servum tuum *\\
+non avértas fáciem christi tui.\\
+Iurávit Dóminus David, *\\
+véritas est, et non recédet ab ea:\\
+„De fructu ventris tui *\\
+ponam super sedem tuam.\\
+Si custodíerint fílii tui testaméntum meum, *\\
+et testimónia mea quæ docébo eos,\\
+fílii eórum usque in sǽculum *\\
+sedébunt super sedem tuam.“\\
+Quóniam elégit Dóminus Sion, *\\
+desiderávit eam in habitatiónem sibi:\\
+„Hæc réquies mea in sǽculum sǽculi; *\\
+hic habitábo, quóniam desiderávi eam.\\
+Cibária eius benedícens benedícam, *\\
+páuperes eius saturábo pánibus.\\
+Sacerdótes eius índuam salutári, *\\
+et sancti eius exsultatióne exsultábunt.\\
+Illic germináre fáciam cornu David, *\\
+parábo lucérnam christo meo.\\
+Inimícos eius índuam confusióne, *\\
+super ipsum autem efflorébit diadéma eius.“\\
+\end{verse}
+\vspace{1cm}
+
+

@@ -1,0 +1,54 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{140/domineclamavi.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 140}\\
+In periculis oratio\\
+\textit{\small Et ascendit fumus incensorum de orationibus sanctorum de manu angeli coram Deo. (Ap 8,4)}
+\end{center}
+\begin{verse}[\versewidth]
+Dómine, clamávi ad te, ad me festína; *\\
+inténde voci meæ, cum clamo ad te.\\
+Dirigátur orátio mea sicut incénsum in conspéctu tuo, *\\
+elevátio mánuum meárum ut sacrifícium vespertínum.\\
+Pone, Dómine, custódiam ori meo, *\\
+et vigílias ad óstium labiórum meórum.\\
+Non declínes cor meum in opus malítiæ, *\\
+ad machinándas machinatiónes in impietáte,\\
+cum homínibus operántibus iniquitátem; *\\
+et non cómedam ex delíciis eórum.\\
+Percútiat me iustus in misericórdia et íncrepet me; †\\
+óleum autem peccatóris non impínguet caput meum, *\\
+quóniam adhuc et orátio mea in malítiis eórum.\\
+Deiécti sunt iuxta petram iúdices eórum, *\\
+qui audíerant verba mea, quóniam suávia erant.\\
+Sicut frusta dolántis et dirumpéntis in terra, *\\
+dissipáta sunt ossa eórum ad fáuces inférni.\\
+Quia ad te, Dómine, Dómine, óculi mei; *\\
+ad te confúgi, non effúndas ánimam meam.\\
+Custódi me a láqueo quem statuérunt mihi, *\\
+et a scándalis operántium iniquitátem.\\
+Cadent in retiácula sua peccatóres simul, *\\
+ego autem ultra pertránseam.\\
+\end{verse}
+\vspace{1cm}
+
+

@@ -1,0 +1,720 @@
+\thispagestyle{plain}
+
+\kapklein{\rot{F}eria \rot{Q}uarta}
+\kkap{feria quarta}
+
+
+
+
+
+\section[vigiliae]{ad vigilias}
+
+
+\setspaceafterinitial{5.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+\def\greinitialformat#1{{\fontsize{40}{40}\selectfont #1}}
+\gresetfirstlineaboveinitial{\small \textcolor{red}{Invitat.}}{Invitat.}
+\setaboveinitialseparation{0.72mm}
+%\setsecondannotation{\small Ps. 125}
+
+\includescore{invitatoria/veniteiv.tex}
+
+\vspace{0.6cm}
+
+\rot{Hymnus ut in Dominica.}
+
+
+\section{vigiliae i}
+
+
+
+\setspaceafterinitial{5.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+\def\greinitialformat#1{{\fontsize{40}{40}\selectfont #1}}
+\gresetfirstlineaboveinitial{\small \textcolor{red}{ Ps 29 (30)}}{}
+\setaboveinitialseparation{0.72mm}
+\setsecondannotation{\small viij. T.}
+\includescore{psalmi/29/exaltabote29.tex}
+
+Ant. Ich preise dich Herr * denn du hast mich aufgenommen.
+
+
+\vspace{0.6cm}
+
+
+\setspaceafterinitial{5.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+\def\greinitialformat#1{{\fontsize{40}{40}\selectfont #1}}
+\gresetfirstlineaboveinitial{\small \textcolor{red}{ Ps 30 (31)}}{}
+\setaboveinitialseparation{0.72mm}
+\setsecondannotation{\small 8. T.}
+
+\includescore{psalmi/30/intua3031.tex}
+
+Ant. Befreie mich Herr * in deiner Gerechtigkeit.
+
+
+\vspace{0.6cm}
+
+\setspaceafterinitial{5.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+\def\greinitialformat#1{{\fontsize{40}{40}\selectfont #1}}
+\gresetfirstlineaboveinitial{\small \textcolor{red}{ Ps 31 (32)}}{}
+\setaboveinitialseparation{0.72mm}
+\setsecondannotation{\small viij. T.}
+\includescore{psalmi/31/laetamini31.tex}
+
+Ant. Freut euch im Herrn * und jauchzt ihr Gerechten.
+
+\vspace{0.3cm}
+
+
+\versik{Audiam quid loquátur Dóminus Deus.}{Loquétur pacem ad plebem suam.}
+
+\versik{Ich will hören, was Gott redet.}{Frieden verkündet der Herr seinem Volk.}
+
+
+
+
+\section{vigiliae ii}
+
+
+\setspaceafterinitial{5.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+\def\greinitialformat#1{{\fontsize{40}{40}\selectfont #1}}
+\gresetfirstlineaboveinitial{\small \textcolor{red}{ Ps 52 (53)}}{}
+\setaboveinitialseparation{0.72mm}
+\setsecondannotation{\small viij. T.}
+
+\includescore{psalmi/52/avertitdominus5253.tex}
+
+Ant. Gewendet hat der Herr * die Gefangenschaft seines Volkes.
+
+
+
+
+\vspace{0.6cm}
+%2.Antiphon
+
+\setspaceafterinitial{5.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+\def\greinitialformat#1{{\fontsize{40}{40}\selectfont #1}}
+\gresetfirstlineaboveinitial{\small \textcolor{red}{ Ps 53 (54)}}{}
+\setaboveinitialseparation{0.72mm}
+\setsecondannotation{\small viij. T.}
+
+\includescore{psalmi/53/deusadjuvatme53.tex}
+
+Ant. Der Herr ist mein Helfer * und nimmt meine Seele auf.
+
+
+\vspace{0.6cm}
+%2.Antiphon
+
+\setspaceafterinitial{5.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+\def\greinitialformat#1{{\fontsize{40}{40}\selectfont #1}}
+\gresetfirstlineaboveinitial{\small \textcolor{red}{ Ps 54 (55)}}{}
+\setaboveinitialseparation{0.72mm}
+\setsecondannotation{\small v. T.}
+\includescore{psalmi/54/intende.tex}
+
+Ant. Wende dich mir zu * und erhöre mich, o Herr.
+
+\vspace{0.3cm}
+
+
+\versik{Declarátio sermónum tuórum illúminat.}{Et intelléctum dat párvulis.}
+
+\versik{Die Erklärung deiner Worte bringt Erleuchtung.}{Und gibt den Einfältigen Verstand.}
+
+\section{vigiliae iii}
+
+
+
+
+\setspaceafterinitial{5.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+\def\greinitialformat#1{{\fontsize{40}{40}\selectfont #1}}
+\gresetfirstlineaboveinitial{\small \textcolor{red}{Ps 76 (77)}}{}
+\setaboveinitialseparation{0.72mm}
+\setsecondannotation{\small 7. T.}
+
+\includescore{psalmi/76/vocemea76.tex}
+
+Ant. Mit lauter Stimme rief ich zum Herrn * und er hat nicht vergessen, mir gnädig zu sein.
+
+
+
+\vspace{0.3cm}
+
+\versik{Confitébimur tibi, Deus.}{Et invocábimus nomen tuum.}
+
+\versik{Wir preisen dich, Herr.}{Und rufen deinen Namen an.}
+
+
+\section{vigiliae iv}
+
+
+\setspaceafterinitial{5.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+\def\greinitialformat#1{{\fontsize{40}{40}\selectfont #1}}
+\gresetfirstlineaboveinitial{\small \textcolor{red}{ Ps 101(102)}}{}
+\setaboveinitialseparation{0.72mm}
+\setsecondannotation{\small 1. T.}
+
+\includescore{psalmi/101/clamormeus101102.tex}
+
+Ant. Mein Schreien * dringe zu dir, o Gott.
+
+
+\vspace{0.6cm}
+
+\setspaceafterinitial{5.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+\def\greinitialformat#1{{\fontsize{40}{40}\selectfont #1}}
+\gresetfirstlineaboveinitial{\small \textcolor{red}{ Ps 102(103)}}{}
+\setaboveinitialseparation{0.72mm}
+\setsecondannotation{\small 8. T.}
+\includescore{psalmi/102/benedicanima103.tex}
+
+Ant.  Meine Seele * preise den Herrn.
+
+\vspace{0.6cm}
+
+\setspaceafterinitial{5.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+\def\greinitialformat#1{{\fontsize{40}{40}\selectfont #1}}
+\gresetfirstlineaboveinitial{\small \textcolor{red}{Ps 103(104a)}}{}
+\setaboveinitialseparation{0.72mm}
+\setsecondannotation{\small vj. T.}
+
+\includescore{psalmi/103/confessionemetdecorem103a.tex}
+
+Ant. Du bist mit Hoheit  und Pracht bekleidet * du hüllst dich in Licht wie in ein Kleid.
+
+\vspace{0.3cm}
+
+
+\versik{Dómine, apud te est fons vitæ.}{Et in lúmine tuo vidébimus lumen.}
+
+\versik{Herr, bei dir ist die Quelle des Lebens.}{In deinem Licht schauen wir das Licht.}
+
+\section[laudes]{ad laudes}
+
+\setspaceafterinitial{5.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+\def\greinitialformat#1{{\fontsize{40}{40}\selectfont #1}}
+\gresetfirstlineaboveinitial{\small \textcolor{red}{ Ps 64}}{}
+\setaboveinitialseparation{0.72mm}
+\setsecondannotation{\small ij. T.}
+
+\includescore{psalmi/63/ps63.tex}
+
+\vspace{0.6cm}
+
+\psal{64}
+\begin{verse}
+ Höre, o Gott, mein lautes Klagen, *\\
+\textit{ mein Leben vor dem Schrecken des Feindes!}\\ \vin
+Verbirg mich vor der Schar der Bösen, *\\ \vin
+vor dem Toben derer, d\d ie Unrecht tun.\\
+Sie schärfen ihre Zunge wie ein Schwert, *\\
+schießen giftige Worte wie Pfeile, \\ \vin
+um den Schuldlosen von ihrem Versteck aus zu treffen. *\\ \vin
+Sie schießen auf ihn, plötzlich \d und ohne Scheu.\\ 
+Sie sind fest entschlossen zu bösem Tun. †\\
+Sie planen, Fallen zu stellen, *\\ und sagen: «W\d er sieht uns schon?»\\ \vin
+Sie haben Bosheit im Sinn, *\\ \vin
+doch halten sie ihre Plän\d e geheim.\\ 
+Ihr Inneres ist heillos verdorben, *\\ ihr Herz ist ein Abgrund.\\ \vin
+
+Da trifft sie Gott mit seinem Pfeil; *\\ \vin
+sie werden jählings verwundet.\\
+Ihre eigene Zunge bringt sie zu Fall.*\\
+Alle, die es sehen, schütt\d eln den Kopf.\\ \vin
+Dann fürchten sich alle Menschen; †\\ \vin
+sie verkünden Gottes Taten *\\ \vin und bedenken sein Wirken.\\
+Der Gerechte freut sich am Herrn und sucht bei ihm Zuflucht. *\\
+Und es rühmen sich alle Menschen mit redlichem Herzen.\\
+\end{verse}
+
+
+\vspace{0.6cm}
+\setspaceafterinitial{5.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+\def\greinitialformat#1{{\fontsize{40}{40}\selectfont #1}}
+\gresetfirstlineaboveinitial{\small \textcolor{red}{Ps 65}}{}
+\setaboveinitialseparation{0.72mm}
+\setsecondannotation{\small 8. T.}
+\includescore{psalmi/64/ps64.tex}
+
+\vspace{0.6cm}
+\psal{65}
+
+\begin{verse}
+\textit{ Dir gebührt Lobgesang, Gott, auf dem Zion,} *\\
+dir erfüllt man Gelübde.\\ \vin
+Du erhörst die Gebete. *\\ \vin
+Alle Menschen kommen zu dir unter der Last ihrer Sünden.\\ 
+Unsere Schuld ist zu groß für uns, *\\
+du wirst sie vergeben.\\ \vin
+Wohl denen, die du erwählst und in deine Nähe holst, *\\ \vin
+die in den Vorhöfen deines Heiligtums wohnen.\\ 
+Wir wollen uns am Gut deines Hauses sättigen, *\\ am Gut deines Tempels.\\ \vin 
+Du vollbringst erstaunliche Taten, *\\ \vin
+erhörst uns in Treue, du Gott unsres Heiles,\\
+du Zuversicht aller Enden der Erde *\\ und der fernsten Gestade.\\ \vin
+Du gründest die Berge in deiner Kraft, *\\ \vin
+du gürtest dich mit Stärke.\\
+Du stillst das Brausen der Meere, *\\
+das Brausen ihrer Wogen, das Tosen der Völker.\\ \vin 
+Alle, die an den Enden der Erde wohnen, †\\ \vin
+erschauern vor deinen Zeichen; *\\ \vin Ost und West erfüllst du mit Jubel.\\
+Du sorgst für das Land und tränkst es; *\\
+du überschüttest es mit Reichtum.\\ \vin 
+Der Bach Gottes ist reichlich gefüllt, *\\ \vin du schaffst ihnen Korn; so ordnest du alles.\\
+Du tränkst die Furchen, ebnest die Schollen, *\\
+machst sie weich durch Regen, segnest ihre Gewächse.\\ \vin
+Du krönst das Jahr mit deiner Güte, *\\ \vin
+deinen Spuren folgt Überfluss.\\
+In der Steppe prangen die Auen, *\\
+die Höhen umgürten sich mit Jubel.\\ \vin 
+Die Weiden schmücken sich mit Herden, †\\ \vin
+die Täler hüllen sich in Korn. *\\ \vin Sie jauchzen und singen.\\
+
+\end{verse}
+
+
+\vspace{0.6cm}
+
+\setspaceafterinitial{5.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+\def\greinitialformat#1{{\fontsize{40}{40}\selectfont #1}}
+\gresetfirstlineaboveinitial{\small \textcolor{red}{Jdt 16}}{}
+\setaboveinitialseparation{0.72mm}
+\setsecondannotation{\small vij. T.}
+\includescore{cantica/ca/iudt16.tex}
+
+\cant{Jdt 16,1f.13-16}
+\begin{verse}
+Stimmt ein Lied an für meinen G\d ott unter Paukenschall, *\\ \vin 
+singt für den Herrn \d unter Zimbelklang! \\ \vin
+ Preist ihn und s\d ing\ textit{e}t sein Lob, *\\  rühmt seinen Namen und r\d uf\textit{e}t ihn an! \\
+Denn der H\d err ist ein Gott, *\\ 
+der den Kr\d iegen ein Ende setzt; \\ \vin  
+er führte mich heim in sein Lager inm\d itten des Volkes *\\ \vin  und rettete mich aus der Gew\d alt der Feinde.\\  
+
+Ich singe meinem Gßd ott ein neues Lied; *\\ 
+\textit{Herr, du bist gr\d oß und} voll Herrlichkeit.\\ \vin  
+\textit{Wunderbar bist du in d\d einer Stärke,} *\\ \vin  keiner kann d\d ich übertreffen.\\  
+Dienen muss dir deine g\d anze Schöpfung.\ *\\ 
+Denn du hast gesprochen und \d alles entstand.\\ \vin  
+ Du sandtest deinen Geist, um den B\d au zu vollenden.  *\\ \vin  Kein Mensch kann deinem W\d ort widerstehen.\\ 
+Meere und Berge erbeben in ihrem Grund, †\\
+vor dir zerschmelzen die F\d elsen wie Wachs. *\\  Doch wer dich fürchtet, der erfährt d\d eine Gnade.\\ \vin 
+Zu gering ist jedes Opfer, um dich zu erfreuen, †\\ \vin
+alle Fettstücke sind nichts beim \d Opfer für dich. *\\ \vin  Wer den Herrn fürchtet, der ist gr\d oß für immer.\\ 
+
+
+\end{verse}
+
+\rot{vel}
+
+\setspaceafterinitial{5.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+\def\greinitialformat#1{{\fontsize{40}{40}\selectfont #1}}
+\gresetfirstlineaboveinitial{\small \textcolor{red}{1 Sam 2}}{}
+\setaboveinitialseparation{0.72mm}
+\setsecondannotation{\small 1. T.}
+\includescore{cantica/ca/1sam.tex}
+
+\cant{1Sam 2,1-10}
+
+\begin{verse}
+
+ Mein Herz ist voll Freude über den Herrn,,*\\
+große Kraft gibt mir der Herr.\\
+\vin Weit öffnet sich mein Mund gegen meine Feinde;*\\
+\vin Denn ich freue mich über deine Hilfe.\\
+Niemand ist heilig, nur der Herr, †\\
+Denn außer dir gibt es keinen (Gott);*\\
+Keiner ist ein Fels wie unser Gott.\\
+\vin Redet nicht immer so vermessen,*\\
+\vin Kein freches Wort entfahre eurem Mund.\\
+Denn der Herr ist ein wissender Gott*\\
+und bei ihm werden die Taten geprüft.\\
+
+\vin Der Bogen der Helden wird zerbrochen,*\\
+\vin die Wankenden aber gürten sich mit Kraft.\\
+Die Satten verdingen sich um Brot,*\\
+doch die Hungrigen können feiern für immer.\\
+\vin Die Unfruchtbare bekommt sieben Kinder, *\\
+\vin doch die Kinderreiche welkt dahin.\\
+Der Herr macht tot und macht lebendig.*\\
+er führt ins Totenreich hinab und führt auch herauf.\\
+\vin Der Herr macht tot und lebendig,*\\
+\vin er führt zum Totenreich hinab und führt auch herauf.\\
+Den Schwachen hebt er empor aus dem Staub *\\
+und erhöht den Armen, der im Schmutz liegt;\\ 
+\vin Er gibt ihm einen Sitz bei den Edlen,*\\
+\vin einen Ehrenplatz weist er ihm zu.\\
+Ja, dem Herrn gehören die Pfeiler der Erde;*\\
+auf sie hat er den Erdkreis gegründet.\\
+\vin Er behütet die Schritte seiner Frommen, *\\
+\vin doch die Frevler verstummen in der Finsternis; \\
+denn der Mensch ist nicht stark aus eigener Kraft.*\\
+Wer gegen den Herrn streitet, wird zerbrechen.\\
+\vin der Höchste lässt es donnern am Himmel.*\\
+\vin Der Herr hält Gericht bis an die Grenzen der Erde.\\
+Seinem König gebe er Kraft*\\
+und erhöhe die Macht seines Gesalbten.\\
+\end{verse}
+
+
+
+
+
+
+
+\vspace{0.6cm}
+
+\setspaceafterinitial{4.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+\def\greinitialformat#1{{\fontsize{40}{40}\selectfont #1}}
+\gresetfirstlineaboveinitial{\small \textcolor{red}{Ps 67}}{}
+\setaboveinitialseparation{0.72mm}
+\setsecondannotation{\small vij. T.}
+
+\includescore{psalmi/66/deusmisereaturnostri.tex}
+
+\vspace{0.3cm}
+\psal{67}
+
+\begin{verse}
+ Gott sei uns gn\d ädig und segne uns.  *\\ 
+Er lasse über uns sein \d Angesicht leuchten,\\ \vin
+\textit{damit auf Erden sein W\d eg erkannt wird *\\ \vin 
+und unter allen V\d ölkern sein Heil.}\\ 
+Die Völker sollen dir d\d anken, o Gott, *\\ 
+danken sollen dir die V\d ölker alle.\\ \vin 
+Die Nationen sollen sich fr\d euen und jubeln. *\\ \vin 
+Denn du richtest den \d Erdkreis gerecht.\\  
+Du richtest die V\d ölker nach Recht *\\  
+und regierst die Nati\d onen auf Erden.\\ \vin  
+Die Völker sollen dir d\d anken, o Gott, *\\ \vin 
+danken sollen dir die V\d ölker alle.\\ 
+Das Land gab s\d einen Ertrag.  *\\ 
+Es segne \d uns Gott, unser Gott.\\ \vin  
+Es s\d egne uns Gott.  *\\ \vin 
+Alle Welt f\d ürchte und ehre ihn.\\  
+
+
+\end{verse}
+
+
+\vspace{0.3cm}
+
+\rot{Responsorium breve et Hymnus ut in feria secunda.}
+
+
+
+\versik{Repléti sumus mane misericórdia tua.}{Exultávimus, et delectáti sumus.}
+
+\vspace{0.6cm}
+
+\setspaceafterinitial{5.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+\def\greinitialformat#1{{\fontsize{40}{40}\selectfont #1}}
+\gresetfirstlineaboveinitial{\small \textcolor{red}{Benedic.}}{}
+\setaboveinitialseparation{0.72mm}
+\setsecondannotation{\small vij. T.}
+
+\includescore{cantica/evangelica/insanctitate.tex}
+
+
+
+
+\section[horae minores]{ad tertiam}
+
+\rot{Hymnus} Nunc sancte nobis Spiritus.
+
+\vspace{0.3cm}
+
+\setspaceafterinitial{5.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+\def\greinitialformat#1{{\fontsize{40}{40}\selectfont #1}}
+
+\gresetfirstlineaboveinitial{\small \textcolor{red}{ xi - xiii }}{}
+\setaboveinitialseparation{0.72mm}
+\setsecondannotation{\small viij. T.}
+
+
+\includescore{psalmi/118/118xiiinaeternum.tex}
+
+
+
+
+
+
+\vspace{0.3cm}
+
+
+\versik{Dóminus non privábit bonis eos qui ámbulant in innocéntia.}{Dómine virtútum, beátus homo qui sperat in te.}
+
+
+
+
+\section[horae minores]{ad sextam}
+
+\rot{Hymnus} Rector potens, verax Deus.
+
+\vspace{0.3cm}
+
+\setspaceafterinitial{5.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+\def\greinitialformat#1{{\fontsize{40}{40}\selectfont #1}}
+\gresetfirstlineaboveinitial{\small \textcolor{red}{ Ps 11 12 13 15 }}{}
+\setaboveinitialseparation{0.72mm}
+\setsecondannotation{\small 8. T.}
+
+\includescore{psalmi/12/illumina121314.tex}
+\vspace{0.3cm}
+
+
+
+\versik{Dómine, veritátem in corde dilexísti.}{Et in occúlto sapiéntiam manifestásti mihi.}
+
+
+
+
+
+
+
+\section[horae minores]{ad nonam}
+
+\rot{Hymnus} Rerum Deus tenax vigor.
+
+\vspace{0.3cm}
+
+ \setspaceafterinitial{5.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+\def\greinitialformat#1{{\fontsize{40}{40}\selectfont #1}}
+\gresetfirstlineaboveinitial{\small \textcolor{red}{ Ps 128s (129) }}{}
+\setaboveinitialseparation{0.72mm}
+\setsecondannotation{\small 8. T.}
+
+\includescore{psalmi/128/benediximusvobis.tex}
+
+
+
+\vspace{0.3cm}
+
+
+\versik{Fac cum servo tuo secúndum misericórdiam tuam, Dómine.}{Iustificatiónes tuas doce me.}
+
+
+
+
+
+
+\section[vesperae]{ad vesperas}
+
+
+
+\setspaceafterinitial{4.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+\def\greinitialformat#1{{\fontsize{40}{40}\selectfont #1}}
+\gresetfirstlineaboveinitial{\small \textcolor{red}{Ps 139a}}{}
+\setaboveinitialseparation{0.72mm}
+\setsecondannotation{\small 3. T.}
+
+\includescore{psalmi/138/domineprobasti.tex}
+
+\vspace{0.3cm}
+\psal{139a}
+
+\begin{verse}
+ \textit{Herr, du hast mich erforscht und du kennst mich.}\\ †\\
+Ob ich sitze oder st\d ehe, du weißt von mir. *\\
+Von fern erkennst du meine Gedanken.\\ \vin 
+Ob ich gehe oder r\d uhe, es ist dir bekannt; *\\ \vin
+du bist vertraut mit all meinen Wegen.\\
+Noch liegt mir das Wo\d rt nicht auf der Zunge - *\\
+du, Herr, kennst es bereits.\\ \vin
+Du umschließt mich von \d allen Seiten *\\ \vin
+und legst deine Hand auf mich.\\
+Zu wunderbar ist für m\d ich dieses Wissen, *\\
+zu hoch, ich kann es nicht begreifen.\\ \vin 
+Wohin könnte ich fl\d iehen vor deinem Geist, *\\ \vin
+wohin mich vor deinem Angesicht flüchten? 
+Steige ich hinauf in den H\d immel, so bist du dort; *\\
+bette ich mich in der Unterwelt, bist du zugegen.\\ 
+Nehme ich die Fl\d ügel des Morgenrots *\\
+und lasse mich nieder am äußersten Meer, \\ \vin
+auch dort wird deine H\d and mich ergreifen *\\ \vin
+und deine Rechte mich fassen.\\
+Würde ich sagen: «Finsternis soll mich bedecken,†\\
+statt Licht soll N\d acht mich umgeben», *\\
+auch die Finsternis wäre für dich nicht finster, \\ \vin
+die Nacht würde l\d euchten wie der Tag, *\\ \vin
+die Finsternis wäre wie Licht.\\
+\end{verse}
+
+
+\vspace{0.3cm}
+\setspaceafterinitial{4.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+\def\greinitialformat#1{{\fontsize{40}{40}\selectfont #1}}
+\gresetfirstlineaboveinitial{\small \textcolor{red}{Ps 139b}}{}
+\setaboveinitialseparation{0.72mm}
+\setsecondannotation{\small vj. T.}
+
+\includescore{psalmi/138/mirabilia138b.tex}
+
+\vspace{0.3cm}
+
+\psal{139b}
+
+\begin{verse}
+ Denn du hast mein Inneres geschaffen, *\\
+mich gewoben im Schoß meiner Mutter.\\ \vin 
+Ich danke dir, dass du mich so wunderbar gestaltet hast.\\ \vin *\\
+\textit{Ich weiß: Staunenswert sind deine Werke.}\\
+Als ich geformt wurde im Dunkeln,†\\
+kunstvoll gewirkt in den Tiefen der Erde, *\\ waren meine Glieder dir nicht verborgen.\\ \vin 
+Deine Augen sahen, wie ich entstand, *\\ \vin
+in deinem Buch war schon alles verzeichnet; \\
+meine Tage waren schon gebildet, *\\ als noch keiner von ihnen da war.\\ \vin
+Wie schwierig sind für mich, o Gott, deine Gedanken, *\\ \vin
+wie gewaltig ist ihre Zahl! \\
+Wollte ich sie zählen, es wären mehr als der Sand. *\\
+Käme ich bis zum Ende, wäre ich noch immer bei dir.\\ \vin
+(Wolltest du, Gott, doch den Frevler töten! *\\ \vin
+Ihr blutgierigen Menschen, lasst ab von mir! \\
+Sie reden über dich voll Tücke *\\
+und missbrauchen deinen Namen.\\ \vin
+Soll ich die nicht hassen, Herr, die dich hassen, *\\ \vin
+die nicht verabscheuen, die sich gegen dich erheben?\\
+Ich hasse sie mit glühendem Hass; *\\
+auch mir sind sie zu Feinden geworden.)\\ \vin
+Erforsche mich, Gott, und erkenne mein Herz, *\\ \vin 
+prüfe mich und erkenne mein Denken! \\
+Sieh her, ob ich auf dem Weg bin, der dich kränkt, *\\
+und leite mich auf dem altbewährten Weg! 
+
+\end{verse}
+
+\vspace{0.3cm}
+
+\setspaceafterinitial{4.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+\def\greinitialformat#1{{\fontsize{40}{40}\selectfont #1}}
+\gresetfirstlineaboveinitial{\small \textcolor{red}{Ps 140}}{}
+\setaboveinitialseparation{0.72mm}
+\setsecondannotation{\small 4. T.}
+
+\includescore{psalmi/139/aviroiniquo.tex}
+
+\vspace{0.3cm}
+\psal{140}
+
+\begin{verse}
+ \textit{Rette mich, Herr, vor bösen Menschen,} *\\
+vor gewalttätig\d en Leuten schütze mich! \\ \vin
+Denn sie sinnen in ihrem Herzen auf Böses, *\\ \vin
+jeden T\d ag schüren sie Streit.\\
+Wie die Schlangen haben sie scharfe Zungen *\\
+und hinter den Lippen G\d ift wie die Nattern\\ \vin 
+Behüte mich, Herr, vor den Händen der Frevler, †\\ \vin
+vor gewalttätigen Leuten schütze mich, *\\ \vin die darauf sinnen, mich zu B\d oden zu stoßen\\
+Hochmütige legen mir heimlich Schlingen, †\\
+Böse spannen ein Netz aus, *\\ stellen mir F\d allen am Wegrand\\ \vin
+Ich sage zum Herrn: Du bist mein Gott *\\ \vin 
+Vernimm, o Herr, m\d ein lautes Flehen! \\
+Herr, mein Gebieter, meine starke Hilfe, *\\ 
+du beschirmst mein Haupt \d am Tag des Kampfes\\ \vin
+Herr, erfülle nicht die Wünsche des Frevlers, *\\ \vin
+lass seine Pl\d äne nicht gelingen! \\
+Die mich umzingeln, sollen das Haupt nicht erheben; *\\
+die Bosheit ihrer Lipp\d en treffe sie selbst\\ \vin 
+Er lasse glühende Kohlen auf sie regnen, †\\ \vin
+er stürze sie hinab in den Abgrund, *\\ \vin sodass sie n\d ie wieder aufstehn\\ 
+Der Verleumder soll nicht bestehen im Land, *\\
+den Gewalttätigen treffe d\d as Unglück Schlag auf Schlag\\ \vin
+Ich weiß, der Herr führt die Sache des Armen, *\\ \vin
+er verhilft den G\d ebeugten zum Recht\\
+Deinen Namen preisen nur die Gerechten; *\\
+vor deinem Angesicht dürfen nur die R\d edlichen bleiben\\ 
+\end{verse}
+
+
+\vspace{0.3cm}
+
+\setspaceafterinitial{10.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+\def\greinitialformat#1{{\fontsize{40}{40}\selectfont #1}}
+\gresetfirstlineaboveinitial{\small \textcolor{red}{Col 1, 12-20}}{}
+\setaboveinitialseparation{0.72mm}
+\setsecondannotation{\small viij. T.}
+
+\includescore{cantica/cn/eccededite.tex}
+
+
+\cant{Col 1, 12-20}
+\begin{verse}
+
+
+Dankt dem Vater mit Freude! *\\
+Er hat euch fähig gemacht, Anteil zu haben am Los der Heiligen, die im Licht sind.\\ \vin 
+Er hat uns der Macht der Finsternis entrissen *\\ \vin
+und aufgenommen in das Reich seines geliebten Sohnes.\\ 
+Durch ihn haben wir die Erlösung,*\\
+die Vergebung der Sünden.\\ \vin 
+Er ist das Ebenbild des unsichtbaren Gottes,*\\ \vin
+der Erstgeborene der ganzen Schöpfung.\\
+Denn in ihm wurde alles erschaffen *\\
+im Himmel und auf Erden,\\ \vin
+ das Sichtbare und das Unsichtbare,†\\ \vin
+Throne und Herrschaften, Mächte und Gewalten; *\\ \vin
+ alles ist durch ihn und auf ihn hin geschaffen.\\ 
+Er ist vor aller Schöpfung, *\\
+in ihm hat alles Bestand.\\ \vin
+Er ist das Haupt des Leibes, *\\ \vin
+der Leib aber ist die Kirche.\\
+ Er ist der Ursprung, † der Erstgeborene der Toten;*\\ so hat er in allem den Vorrang.\\ \vin 
+Denn Gott wollte mit seiner ganzen Fülle in ihm wohnen,*\\ \vin
+um durch ihn alles zu versöhnen.\\ 
+Alles im Himmel und auf Erden wollte er zu Christus führen,*\\
+der Friede gestiftet hat am Kreuz durch sein Blut.\\ 
+\end{verse}
+
+
+\vspace{0.3cm}
+
+\setspaceafterinitial{4.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+
+\rot{Responsorium breve et Hymnus ut in feria secunda.}
+
+\vspace{0.6cm}
+
+
+
+
+\versik{Dirigátur, Dómine, orátio mea.}{Sicut incénsum in conspéctu tuo.}
+
+\vspace{0.6cm}
+
+\setspaceafterinitial{5.2mm plus 0em minus 0em}
+\setspacebeforeinitial{4.2mm plus 0em minus 0em}
+\def\greinitialformat#1{{\fontsize{40}{40}\selectfont #1}}
+\gresetfirstlineaboveinitial{\small \textcolor{red}{Magni.}}{}
+\setaboveinitialseparation{0.72mm}
+\setsecondannotation{\small j. T.}
+
+\includescore{cantica/evangelica/quiafecitmihi.tex}
+
+
+
+\newpage

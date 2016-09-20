@@ -1,0 +1,67 @@
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{43}{43}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf j. T.}{\small \bf j. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{117/inclinavit.tex}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 116}\\
+Gratiarum actio\\
+\textit{\small Per multas tribulationes oportet nos intrare in regnum Dei. (Act 14,21)}
+\end{center}
+\begin{verse}[\versewidth]
+Diléxi, quóniam exáudit Dóminus *\\
+vocem deprecatiónis meæ.\\!
+\vin  Quia inclinávit aurem suam mihi, *\\
+\vin  cum in diébus meis invocábam.\\!
+Circumdedérunt me funes mortis, *\\
+et angústiæ inférni invenérunt me.\\!
+\vin  Tribulatiónem et dolórem invéni, †\\
+\vin  et nomen Dómini invocábam: *\\
+\vin  „O Dómine, líbera ánimam meam.“\\!
+Miséricors Dóminus et iustus, *\\
+et Deus noster miserétur.\\!
+\vin  Custódiens párvulos Dóminus; *\\
+\vin  humiliátus sum, et salvum me fáciet.\\!
+Convértere, ánima mea, in réquiem tuam, *\\
+quia Dóminus benefécit tibi;\\!
+\vin  quia erípuit ánimam meam de morte, †\\
+\vin  óculos meos a lácrimis, *\\
+\vin  pedes meos a lapsu.\\!
+Ambulábo coram Dómino *\\
+in regióne vivórum.\\!
+\vin  Crédidi, étiam cum locútus sum: *\\
+\vin  „Ego humiliátus sum nimis.“\\!
+Ego dixi in trepidatióne mea: *\\
+„Omnis homo mendax.“\\!
+\vin  Quid retríbuam Dómino *\\
+\vin  pro ómnibus quæ retríbuit mihi?\\!
+Cálicem salutáris accípiam, *\\
+et nomen Dómini invocábo.\\!
+\vin  Vota mea Dómino reddam *\\
+\vin  coram omni pópulo eius.\\!
+Pretiósa in conspéctu Dómini *\\
+mors sanctórum eius.\\!
+\vin  O Dómine, ego servus tuus, *\\
+\vin  ego servus tuus et fílius ancíllæ tuæ.\\!
+Dirupísti víncula mea: †\\
+tibi sacrificábo hóstiam laudis, *\\
+et nomen Dómini invocábo.\\!
+\vin  Vota mea Dómino reddam *\\
+\vin  coram omni pópulo eius,\\!
+in átriis domus Dómini, *\\
+in médio tui, Ierúsalem.
+\end{verse}
+\vspace{1cm}

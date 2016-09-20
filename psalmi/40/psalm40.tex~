@@ -1,0 +1,59 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf ij. T.}{\small \bf ij. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{40/sanadomine4041.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 40}\\
+Infirmi oratio\\
+\textit{\small Unus ex vobis tradet me, qui manducat mecum. (Mc 14,18)}
+\end{center}
+\begin{verse}[\versewidth]
+Beátus qui intéllegit de egéno, *\\
+in die mala liberábit eum Dóminus.\\
+Dóminus servábit eum, et vivificábit eum, †\\
+et beátum fáciet eum in terra, *\\
+et non tradet eum in fauces inimicórum eius.\\
+Dóminus opem feret illi super lectum dolóris eius; *\\
+univérsum stratum eius versábis in infirmitáte eius.\\
+Ego dixi: „Dómine, miserére mei; *\\
+sana ánimam meam, quia peccávi tibi.“\\
+Inimíci mei dixérunt mala mihi: *\\
+„Quando moriétur, et períbit nomen eius?“\\
+Et si ingrediebátur, ut visitáret, vana loquebátur; †\\
+cor eius congregábat iniquitátem sibi, *\\
+egrediebátur foras et detrahébat.\\
+Simul advérsum me susurrábant omnes inimíci mei; *\\
+advérsum me cogitábant mala mihi:\\
+„Malefícium effúsum est in eo; *\\
+et qui decúmbit non adíciet ut resúrgat.“\\
+Sed et homo pacis meæ, in quo sperávi, *\\
+qui edébat panem meum, levávit contra me calcáneum.\\
+Tu autem, Dómine, miserére mei; *\\
+et resúscita me, et retríbuam eis.\\
+In hoc cognóvi quóniam voluísti me, *\\
+quia non gaudébit inimícus meus super me;\\
+me autem propter innocéntiam suscepísti, *\\
+et statuísti me in conspéctu tuo in ætérnum.\\
+Benedíctus Dóminus Deus Israel *\\
+a sǽculo et usque in sǽculum. Fiat, fiat.\\
+\end{verse}
+\vspace{1cm}
+
+

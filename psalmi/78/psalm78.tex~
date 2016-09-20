@@ -1,0 +1,66 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 8. T.}{\small \bf 8. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{78/propitius78.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 78}\\
+Super Ierusalem lamentatio\\
+\textit{\small Si cognovisses et tu quæ ad pacem tibi. (Lc 19,42)}
+\end{center}
+\begin{verse}[\versewidth]
+Deus, venérunt gentes in hereditátem tuam, †\\
+polluérunt templum sanctum tuum, *\\
+posuérunt Ierúsalem in ruínas.\\!
+\vin Dedérunt morticína servórum tuórum escas volatílibus cæli, *\\
+\vin carnes sanctórum tuórum béstiis terræ.\\!
+Effudérunt sánguinem eórum tamquam aquam in circúitu Ierúsalem, *\\
+et non erat qui sepelíret.\\!
+\vin Facti sumus oppróbrium vicínis nostris, *\\
+\vin subsannátio et illúsio his qui in circúitu nostro sunt.\\!
+Usquequo, Dómine? †\\
+Irascéris in finem? *\\
+Accendétur velut ignis zelus tuus?\\!
+\vin Effúnde iram tuam in gentes quæ te non novérunt, *\\
+\vin et in regna quæ nomen tuum non invocavérunt.\\!
+Quia comedérunt Iacob, *\\
+et sedem eius desolavérunt.\\!
+\vin Ne memíneris iniquitátum patrum nostrórum, †\\
+\vin cito antícipent nos misericórdiæ tuæ, *\\
+\vin quia páuperes facti sumus nimis.\\!
+Adiuva nos, Deus salutáris nostri, *\\
+propter glóriam nóminis tui, et líbera nos;\\!
+\vin et propítius esto peccátis nostris *\\
+\vin propter nomen tuum.\\!
+Quare dicent in géntibus: „Ubi est Deus eórum?“ †\\
+Innotéscat in natiónibus coram óculis nostris *\\
+últio sánguinis servórum tuórum qui effúsus est.\\!
+\vin Intróeat in conspéctu tuo gémitus compeditórum; †\\
+\vin secúndum magnitúdinem brácchii tui *\\
+\vin supérstites relínque fílios mortis.\\!
+Et redde vicínis nostris séptuplum in sinu eórum, *\\
+impropérium ipsórum quod exprobravérunt tibi, Dómine.\\!
+\vin Nos autem pópulus tuus et oves páscuæ tuæ, *\\
+\vin confitébimur tibi in sǽculum;\\!
+in generatiónem et generatiónem *\\
+annuntiábimus laudem tuam.\\
+\end{verse}
+\vspace{1cm}
+
+

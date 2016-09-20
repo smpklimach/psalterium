@@ -1,0 +1,52 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 51}\\
+Contra calumniatorem\\
+\textit{\small Qui gloriatur, in Domino glorietur. (1 Cor 1,31)}
+\end{center}
+\begin{verse}[\versewidth]
+Quid gloriáris in malítia, *\\
+qui potens es iniquitáte?\\
+Tota die insídias cogitásti; *\\
+lingua tua sicut novácula acúta, qui facis dolum.\\
+Dilexísti malítiam super benignitátem, †\\
+mendácium magis quam loqui æquitátem. *\\
+Dilexísti ómnia verba perditiónis, lingua dolósa.\\
+Proptérea Deus déstruet te in finem; †\\
+evéllet te, et emigrábit te de tabernáculo, *\\
+et radícem tuam de terra vivéntium.\\
+Vidébunt iusti et timébunt, *\\
+et super eum ridébunt:\\
+„Ecce homo qui non pósuit Deum refúgium suum, †\\
+sed sperávit in multitúdine divitiárum suárum, *\\
+et præváluit in insídiis suis.“\\
+Ego autem sicut virens olíva in domo Dei. †\\
+Sperávi in misericórdia Dei *\\
+in ætérnum et in sǽculum sǽculi.\\
+Confitébor tibi in sǽculum, quia fecísti; †\\
+et exspectábo nomen tuum, quóniam bonum est, *\\
+in conspéctu sanctórum tuórum.\\
+\end{verse}
+\vspace{1cm}
+
+

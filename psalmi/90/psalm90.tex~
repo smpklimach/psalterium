@@ -1,0 +1,67 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 90}\\
+In protectione Altissimi\\
+\textit{\small Ecce dedi vobis potestatem calcandi supra serpentes et scorpiones. (Lc 10,19)}
+\end{center}
+\begin{verse}[\versewidth]
+Qui hábitat in protectióne Altíssimi, *\\
+sub umbra Omnipoténtis commorábitur.\\
+Dicet Dómino: †\\
+„Refúgium meum et fortitúdo mea, *\\
+Deus meus, sperábo in eum.“\\
+Quóniam ipse liberábit te de láqueo venántium *\\
+et a verbo malígno.\\
+Alis suis obumbrábit tibi, *\\
+et sub pennas eius confúgies.\\
+Scutum et loríca véritas eius; *\\
+non timébis a timóre noctúrno,\\
+a sagítta volánte in die, †\\
+a peste perambulánte in ténebris, *\\
+ab extermínio vastánte in merídie.\\
+Cadent a látere tuo mille, †\\
+et decem mília a dextris tuis; *\\
+ad te autem non appropinquábit.\\
+Quodsi óculis tuis consideráveris, *\\
+retributiónem peccatórum vidébis.\\
+Quóniam tu es, Dómine, refúgium meum. *\\
+Altíssimum posuísti habitáculum tuum.\\
+Non accédet ad te malum, *\\
+et flagéllum non appropinquábit tabernáculo tuo.\\
+Quóniam ángelis suis mandábit de te, *\\
+ut custódiant te in ómnibus viis tuis.\\
+In mánibus portábunt te, *\\
+ne forte offéndas ad lápidem pedem tuum.\\
+Super áspidem et basilíscum ambulábis, *\\
+et conculcábis leónem et dracónem.\\
+Quóniam mihi adhǽsit, liberábo eum; *\\
+suscípiam eum, quóniam cognóvit nomen meum.\\
+Clamábit ad me, et ego exáudiam eum; †\\
+cum ipso sum in tribulatióne, *\\
+erípiam eum et glorificábo eum.\\
+Longitúdine diérum replébo eum, *\\
+et osténdam illi salutáre meum.\\
+\end{verse}
+\vspace{1cm}
+
+

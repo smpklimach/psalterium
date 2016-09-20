@@ -1,0 +1,66 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 8. T.}{\small \bf 8. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{47/auribuspercipite4748.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 47}\\
+Gratiarum actio pro populi salute\\
+\textit{\small Sustulit me in montem magnum et ostendit mihi civitatem sanctam Ierusalem. (Ap 21,10)}
+\end{center}
+\begin{verse}[\versewidth]
+Magnus Dóminus et laudábilis nimis, *\\
+in civitáte Dei nostri.\\
+Mons sanctus eius collis speciósus, *\\
+exsultátio univérsæ terræ.\\
+Mons Sion, extréma aquilónis, *\\
+cívitas regis magni.\\
+Deus in dómibus eius notus *\\
+factus est ut refúgium.\\
+Quóniam ecce reges congregáti sunt, *\\
+convenérunt in unum.\\
+Ipsi cum vidérunt, sic admiráti sunt, *\\
+conturbáti sunt, diffugérunt;\\
+illic tremor apprehéndit eos, *\\
+dolóres ut parturiéntis.\\
+In spíritu oriéntis *\\
+cónteres naves Tharsis.\\
+Sicut audívimus, sic vídimus in civitáte Dómini virtútum, †\\
+in civitáte Dei nostri; *\\
+Deus fundávit eam in ætérnum.\\
+Recogitámus, Deus, misericórdiam tuam *\\
+in médio templi tui.\\
+Secúndum nomen tuum, Deus, †\\
+sic et laus tua in fines terræ; *\\
+iustítia plena est déxtera tua.\\
+Lætétur mons Sion, †\\
+et exsúltent fíliæ Iudæ *\\
+propter iudícia tua.\\
+Circúmdate Sion et complectímini eam, *\\
+numeráte turres eius.\\
+Pónite corda vestra in virtúte eius, †\\
+et percúrrite domos eius, *\\
+ut enarrétis in progénie áltera.\\
+Quóniam hic est Deus, Deus noster †\\
+in ætérnum et in sǽculum sǽculi: *\\
+ipse ducet nos in sǽcula.\\
+\end{verse}
+\vspace{1cm}
+
+

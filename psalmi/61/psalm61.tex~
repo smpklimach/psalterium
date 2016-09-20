@@ -1,0 +1,62 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf vj. T.}{\small \bf vj. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{61/benedicite6165.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 61}\\
+Pax in Deo\\
+\textit{\small Deus spei repleat vos omni pace in credendo. (Rom 15,13)}
+\end{center}
+\begin{verse}[\versewidth]
+In Deo tantum quiésce, ánima mea; *\\
+ab ipso enim salutáre meum.\\
+Verúmtamen ipse refúgium meum et salutáre meum, *\\
+præsídium meum, non movébor ámplius.\\
+Quoúsque irrúitis in hóminem, †\\
+contúnditis univérsi vos, *\\
+tamquam paríetem inclinátum et macériam depúlsam?\\
+Verúmtamen de excélso suo cogitavérunt depéllere; †\\
+delectabántur mendácio. *\\
+Ore suo benedicébant, et corde suo maledicébant.\\
+In Deo tantum quiésce, ánima mea; *\\
+quóniam ab ipso patiéntia mea.\\
+Verúmtamen ipse Deus meus et salutáre meum, *\\
+præsídium meum, non movébor.\\
+In Deo salutáre meum et glória mea; *\\
+Deus fortitúdinis meæ, et refúgium meum in Deo est.\\
+Speráte in eo, omnis congregátio pópuli, †\\
+effúndite coram illo corda vestra; *\\
+Deus refúgium nobis.\\
+Verúmtamen vánitas fílii Adam, *\\
+mendácium fílii hóminum.\\
+In statéram si conscéndant, *\\
+super fumum leves sunt omnes.\\
+Nolíte speráre in violéntia, †\\
+et in rapína nolíte vani esse; *\\
+divítiæ si áffluant, nolíte cor appónere.\\
+Semel locútus est Deus, *\\
+duo hæc audívi:\\
+quia potéstas Deo est, †\\
+et tibi, Dómine, misericórdia; *\\
+quia tu reddes unicuíque iuxta ópera sua.\\
+\end{verse}
+\vspace{1cm}
+
+

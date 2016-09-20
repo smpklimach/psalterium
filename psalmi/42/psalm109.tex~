@@ -1,0 +1,93 @@
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{43}{43}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf iv. T.}{\small \bf iv. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{109/confitebor.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 109}\\
+Contra perfidos inimicos\\
+\textit{\small Hic psalmus passionem Domini narrat et miseriam Iudæ proditoris eius. (S. Hieronymus)}
+\end{center}
+\begin{verse}[\versewidth]
+Deus laudis meæ, ne tacúeris, *\\
+quia os peccatóris \verselinebreak et os dolósi super me apértum est.\\!
+\vin  Locúti sunt advérsum me lingua dolósa, †\\
+\vin  et sermónibus ódii circumdedérunt me, *\\
+\vin  et expugnavérunt me gratis.\\!
+Pro dilectióne mea adversabántur mihi; *\\
+ego autem orábam.\\!
+\vin  Et posuérunt advérsum me mala pro bonis, *\\
+\vin  et ódium pro dilectióne mea.\\!
+\textit{
+Constítue super eum peccatórem, *\\
+et adversárius stet a dextris eius.\\!
+\vin  Cum iudicátur, éxeat condemnátus, *\\
+\vin  et orátio eius fiat in peccátum.\\!
+Fiant dies eius pauci, *\\
+et ministérium eius accípiat alter.\\!
+\vin  Fiant fílii eius órphani, *\\
+\vin  et uxor eius vídua.\\!
+Instábiles vagéntur fílii eius et mendícent, *\\
+et eiciántur de ruínis suis.\\!
+\vin  Scrutétur fenerátor omnem substántiam eius,*\\
+\vin  et dirípiant aliéni labóres eius.\\!
+Non sit qui prǽbeat illi misericórdiam, *\\
+nec sit qui misereátur pupíllis eius.\\!
+\vin  Fiant nati eius in intéritum, *\\
+\vin  in generatióne una deleátur nomen eórum.\\!
+In memóriam rédeat iníquitas \verselinebreak patrum eius in conspéctu Dómini, *\\
+et peccátum matris eius non deleátur.\\!
+\vin  Fiant contra Dóminum semper, *\\
+\vin  et dispérdat de terra memóriam eórum.\\! 
+Pro eo quod non est \verselinebreak recordátus fácere misericórdiam, †\\
+et persecútus est hóminem ínopem et mendícum,*\\
+et compúnctum corde, ut mortificáret.\\!
+\vin  Et diléxit maledictiónem: et véniat ei; *\\
+\vin  et nóluit benedictiónem: et elongétur ab eo.\\!
+Et índuat maledictiónem sicut vestiméntum, †\\
+et intret sicut aqua in interióra eius, *\\
+et sicut óleum in ossa eius.\\!
+\vin  Fiat ei sicut induméntum quo operítur, *\\
+\vin  et sicut zona qua semper præcíngitur.\\!
+Hæc retribútio eórum \verselinebreak qui adversántur mihi apud Dóminum, *\\
+et qui loquúntur mala advérsus ánimam meam.\\!}
+\vin  Et tu, Dómine, Dómine, \verselinebreak fac mecum propter nomen tuum, *\\
+\vin  quia suávis est misericórdia tua;\\!
+líbera me, quia egénus et pauper ego sum, *\\
+et cor meum vulnerátum est intra me.\\!
+\vin  Sicut umbra cum declínat pertránsii, *\\
+\vin  excússus sum sicut locústæ.\\!
+Génua mea infirmáta sunt ieiúnio, *\\
+et caro mea contábuit absque óleo.\\!
+\vin  Et ego factus sum oppróbrium illis, *\\
+\vin  vidérunt me et movérunt cápita sua.\\! 
+Adiuva me, Dómine Deus meus, *\\
+salvum me fac secúndum misericórdiam tuam.\\!
+\vin  Et sciant quia manus tua hæc; *\\
+\vin  tu, Dómine, hoc fecísti.\\!
+Maledícant illi, et tu benedícas; †\\
+qui insúrgunt in me, confundántur, *\\
+servus autem tuus lætábitur.\\!
+\vin  Induántur qui détrahunt mihi pudóre, *\\
+\vin  et operiántur sicut diplóide confusióne sua.\\!
+Confitébor Dómino nimis in ore meo, *\\
+et in médio multórum laudábo eum,\\!
+\vin  quia ástitit a dextris páuperis, *\\
+\vin  ut salvam fáceret a iudicántibus ánimam eius.
+\end{verse}
+\vspace{1cm}
+

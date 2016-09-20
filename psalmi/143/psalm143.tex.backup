@@ -1,0 +1,73 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf vj. T.}{\small \bf vj. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{143/benedictusdominusdeusmeus.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 143}\\
+Pro victoria et pace\\
+\textit{\small Omnia possum in eo qui me confortat. (Phil 4,13)}
+\end{center}
+\begin{verse}[\versewidth]
+Benedíctus Dóminus, præsídium meum, †\\
+qui docet manus meas ad próelium, *\\
+et dígitos meos ad bellum.\\
+\vin Misericórdia mea et fortitúdo mea, *\\
+\vin refúgium meum et liberátor meus;\\
+scutum meum, et in ipso sperávi, *\\
+qui subdit pópulum meum sub me.\\
+D\vin ómine, quid est homo, quod agnóscis eum, *\\
+\vin aut fílius hóminis, quod réputas eum?\\
+Homo vanitáti símilis factus est, *\\
+dies eius sicut umbra prætériens.\\
+\vin Dómine, inclína cælos tuos, et descénde; *\\
+\vin tange montes, et fumigábunt.\\
+Fúlgura coruscatiónem, et díssipa eos; *\\
+emítte sagíttas tuas, et contúrba eos.\\
+\vin Emítte manum tuam de alto; *\\
+\vin éripe me, et líbera me de aquis multis,\\
+de manu filiórum alienigenárum, †\\
+quorum os locútum est vanitátem, *\\
+et déxtera eórum déxtera mendácii.\\
+II
+Deus, cánticum novum cantábo tibi, *\\
+in psaltério decachórdo psallam tibi,\\
+qui das salútem régibus, *\\
+qui rédimis David servum tuum de gládio malígno.\\
+Eripe me, et líbera me *\\
+de manu filiórum alienigenárum,\\
+quorum os locútum est vanitátem, *\\
+et déxtera eórum déxtera mendácii.\\
+Fílii nostri sicut novéllæ crescéntes *\\
+in iuventúte sua;\\
+fíliæ nostræ sicut colúmnæ anguláres, *\\
+sculptæ ut structúra templi.\\
+Promptuária nostra plena, *\\
+redundántia ómnibus bonis;\\
+oves nostræ in mílibus †\\
+innumerábiles in campis nostris, *\\
+boves nostræ crassæ.\\
+Non est ruína macériæ neque excúrsus, *\\
+neque clamor in platéis nostris.\\
+Beátus pópulus cui hæc sunt; *\\
+beátus pópulus cuius Dóminus Deus eius.\\
+\end{verse}
+\vspace{1cm}
+
+

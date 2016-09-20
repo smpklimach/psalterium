@@ -1,0 +1,112 @@
+\setspaceafterinitial{3.8mm plus 0em minus 0em}
+\setspacebeforeinitial{3.8mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{43}{43}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 1. T. irr.}{\small \bf 1. T. irr.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{113/afacie.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 113 A}\\
+Israel ex Ægypto liberatur\\
+\textit{\small Cognoscite etiam vos exiisse ab Ægypto, qui huic sæculo renuntiastis. (S. Augustinus)}
+\end{center}
+\begin{verse}[\versewidth]
+In éxitu Israel de Ægýpto, *\\
+domus Iacob de pópulo bárbaro,\\!
+\vin  factus est Iuda sanctuárium eius, *\\
+\vin  Israel potéstas eius.\\!
+Mare vidit et fugit, *\\
+Iordánis convérsus est retrórsum;\\! %\pagebreak
+\vin  montes saltavérunt ut ariétes, *\\
+\vin  et colles sicut agni óvium.\\!
+Quid est tibi, mare, quod fugísti? *\\
+Et tu, Iordánis, quia convérsus es retrórsum?\\!
+\vin  Montes, quod saltástis sicut aríetes, *\\
+\vin  et colles, sicut agni óvium?\\!
+A fácie Dómini contremísce, terra, *\\
+a fácie Dei Iacob;\\!
+\vin  qui convértit petram in stagna aquárum, *\\
+\vin  et sílicem in fontes aquárum.
+\end{verse}
+\vspace{1cm}
+
+
+\setspaceafterinitial{3.8mm plus 0em minus 0em}
+\setspacebeforeinitial{3.8mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{43}{43}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 1. T. irr.}{\small \bf 1. T. irr.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{113/nosqui.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 113 B}\\
+Laus veri Dei\\
+\textit{\small Conversi estis ad Deum a simulacris, servire Deo vivo et vero. (1 Th 1,9)}
+\end{center}
+\begin{verse}[\versewidth]
+Non nobis, Dómine, non nobis, †\\
+sed nómini tuo da glóriam, *\\
+super misericórdia tua et veritáte tua.\\!
+\vin  Quare dicent gentes: *\\
+\vin  „Ubi est Deus eórum?“\\! \pagebreak 
+Deus autem noster in cælo, *\\
+ómnia quæcúmque vóluit, fecit.\\!
+\vin  Simulácra géntium argéntum et aurum, *\\
+\vin  ópera mánuum hóminum.\\!
+Os habent, et non loquéntur, *\\
+óculos habent, et non vidébunt.\\!
+\vin  Aures habent, et non áudient, *\\
+\vin  nares habent, et non odorábunt.\\!
+Manus habent, et non palpábunt, †\\
+pedes habent, et non ambulábunt; *\\
+non clamábunt in gútture suo.\\!
+\vin  Símiles illis fiant qui fáciunt ea, *\\
+\vin  et omnes qui confídunt in eis.\\!
+Domus Israel sperávit in Dómino, *\\
+adiutórium eórum et scutum eórum est.\\!
+\vin  Domus Aaron sperávit in Dómino, *\\
+\vin  adiutórium eórum et scutum eórum est.\\!
+Qui timent Dóminum speravérunt in Dómino, *\\
+adiutórium eórum et scutum eórum est.\\!
+\vin  Dóminus memor fuit nostri, *\\
+\vin  et benedícet nobis.\\!
+Benedícet dómui Israel, *\\
+benedícet dómui Aaron.\\!
+\vin  Benedícet ómnibus qui timent Dóminum, *\\
+\vin  pusíllis cum maióribus.\\! 
+Adíciat Dóminus super vos, *\\
+super vos et super fílios vestros.\\! \pagebreak
+\vin  Benedícti vos a Dómino, *\\
+\vin  qui fecit cælum et terram.\\! 
+Cæli, cæli sunt Dómino, *\\
+terram autem dedit fíliis hóminum.\\!
+\vin  Non mórtui laudábunt te, Dómine, *\\
+\vin  neque omnes qui descéndunt in siléntium.\\!
+Sed nos qui vívimus, benedícimus Dómino *\\
+ex hoc nunc et usque in s\'{æ}culum.
+\end{verse}
+\vspace{1cm}

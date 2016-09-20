@@ -1,0 +1,54 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 23}\\
+Domini in templum adventus\\
+\textit{\small Christo apertæ sunt portæ cæli propter carnalem eius assumptionem. (S. Irenæus)}
+\end{center}
+\begin{verse}[\versewidth]
+Dómini est terra et plenitúdo eius, *\\
+orbis terrárum et qui hábitant in eo.\\
+Quia ipse super mária fundávit eum, *\\
+et super flúmina firmávit eum.\\
+Quis ascéndet in montem Dómini, *\\
+aut quis stabit in loco sancto eius?\\
+Innocens mánibus et mundo corde, †\\
+qui non accépit in vanum nomen eius, *\\
+nec iurávit in dolum.\\
+Hic accípiet benedictiónem a Dómino, *\\
+et iustificatiónem a Deo salutári suo.\\
+Hæc est generátio quæréntium eum, *\\
+quæréntium fáciem Dei Iacob.\\
+Attóllite, portæ, cápita vestra, †\\
+et elevámini, portæ æternáles, *\\
+et introíbit rex glóriæ.\\
+Quis est iste rex glóriæ? *\\
+Dóminus fortis et potens, Dominus potens in proelio.\\
+Attóllite, portæ, cápita vestra, †\\
+et elevámini, portæ æternáles, *\\
+et introíbit rex glóriæ.\\
+Quis est iste rex glóriæ? *\\
+Dóminus virtútum ipse est rex glóriæ.\\
+\end{verse}
+\vspace{1cm}
+
+

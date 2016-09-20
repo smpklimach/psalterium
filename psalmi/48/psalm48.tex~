@@ -1,0 +1,77 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 48}\\
+Vanitas divitiarum\\
+\textit{\small Dives difficile intrabit in regnum cælorum. (Mt 19,23)}
+\end{center}
+\begin{verse}[\versewidth]
+Audíte hæc, omnes gentes, *\\
+áuribus percípite, omnes qui habitátis orbem.\\
+Quique húmiles et viri nóbiles, *\\
+simul in unum dives et pauper.\\
+Os meum loquétur sapiéntiam, *\\
+et meditátio cordis mei prudéntiam.\\
+Inclinábo in parábolam aurem meam, *\\
+apériam in psaltério ænígma meum.\\
+Cur timébo in diébus malis, *\\
+cum iníquitas supplantántium circúmdabit me?\\
+Qui confídunt in virtúte sua, *\\
+et in multitúdine divitiárum suárum gloriántur.\\
+Etenim seípsum non rédimet homo; *\\
+non dabit Deo propitiatiónem suam.\\
+Nímium est prétium redemptiónis ánimæ eius: †\\
+ad últimum defíciet, *\\
+ut vivat usque in finem, nec vídeat intéritum.\\
+Et vidébit sapiéntes moriéntes; †\\
+simul insípiens et stultus períbunt, *\\
+et relínquent aliénis divítias suas.\\
+Sepúlcra eórum domus illórum in ætérnum; †\\
+tabernácula eórum in progéniem et progéniem, *\\
+etsi vocavérunt nomínibus suis terras suas.\\
+Et homo, cum sit in honóre, non permanébit; †\\
+comparátus est iuméntis quæ péreunt, *\\
+et símilis factus est illis.\\
+Hæc via illórum quorum fidúcia in semetípsis, *\\
+et finis eórum qui cómplacent in ore suo.\\
+Sicut oves in inférno pósiti sunt, *\\
+mors depáscet eos;\\
+descéndent præcípites ad sepúlcrum, †\\
+et figúra eórum erit in consumptiónem: *\\
+inférnus habitáculum eórum.\\
+Verúmtamen Deus rédimet ánimam meam, *\\
+de manu ínferi vere suscípiet me.\\
+Ne timúeris, cum dives factus fúerit homo, *\\
+et cum multiplicáta fúerit glória domus eius.\\
+Quóniam cum interíerit, non sumet ómnia, *\\
+neque descéndet cum eo glória eius.\\
+Cum ánimæ suæ in vita ipsíus benedíxerit: *\\
+„Laudábunt te, quod benefecísti tibi“;\\
+tamen introíbit ad progéniem patrum suórum, *\\
+qui in ætérnum non vidébunt lumen.\\
+Homo, cum in honóre esset, non intelléxit; †\\
+comparátus est iuméntis quæ péreunt, *\\
+et símilis factus est illis.\\
+\end{verse}
+\vspace{1cm}
+
+

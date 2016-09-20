@@ -1,0 +1,63 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 41}\\
+Desiderium Domini et templi eius\\
+\textit{\small Qui sitit, veniat; et qui vult, accipiat aquam vitæ. (Ap 22,17)}
+\end{center}
+\begin{verse}[\versewidth]
+Quemádmodum desíderat cervus ad fontes aquárum, *\\
+ita desíderat ánima mea ad te, Deus.\\
+Sitívit ánima mea ad Deum, Deum vivum: *\\
+quando véniam et apparébo ante fáciem Dei?\\
+Fuérunt mihi lácrimæ meæ panis die ac nocte, *\\
+dum dícitur mihi cotídie: „Ubi est Deus tuus?“\\
+Hæc recordátus sum et effúdi in me ánimam meam; *\\
+quóniam transíbam in locum tabernáculi admirábilis usque ad domum Dei,\\
+in voce exsultatiónis et confessiónis, *\\
+multitúdinis festa celebrántis.\\
+Quare tristis es, ánima mea, *\\
+et quare conturbáris in me?\\
+Spera in Deo, quóniam adhuc confitébor illi, *\\
+salutáre vultus mei et Deus meus.\\
+In meípso ánima mea contristáta est; †\\
+proptérea memor ero tui *\\
+de terra Iordánis et Hermóniim, de monte Módico.\\
+Abýssus abýssum ínvocat in voce cataractárum tuárum; *\\
+omnes gúrgites tui et fluctus tui super me transiérunt.\\
+In die mandávit Dóminus misericórdiam suam, †\\
+et nocte cánticum eius apud me est: *\\
+orátio ad Deum vitæ meæ.\\
+Dicam Deo: „Suscéptor meus es; †\\
+quare oblítus es mei? *\\
+Et quare contristátus incédo, dum afflígit me inimícus?“\\
+Dum confringúntur ossa mea, †\\
+exprobravérunt mihi qui tríbulant me, *\\
+dum dicunt mihi cotídie: „Ubi est Deus tuus?“\\
+Quare tristis es, ánima mea, *\\
+et quare conturbáris in me?\\
+Spera in Deo, quóniam adhuc confitébor illi, *\\
+salutáre vultus mei et Deus meus.\\
+\end{verse}
+\vspace{1cm}
+
+

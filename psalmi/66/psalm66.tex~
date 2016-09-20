@@ -1,0 +1,46 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf vij. T.}{\small \bf vij. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{66/deusmisereaturnostri.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 66}\\
+Omnes gentes Domino confiteantur\\
+\textit{\small Notum sit vobis quoniam gentibus missum est hoc salutare Dei. (Act 28,28)}
+\end{center}
+\begin{verse}[\versewidth]
+Deus misereátur nostri, et benedícat nobis; *\\
+illúminet vultum suum super nos.\\
+Ut cognoscátur in terra via tua, *\\
+in ómnibus géntibus salutáre tuum.\\
+Confiteántur tibi pópuli, Deus; *\\
+confiteántur tibi pópuli omnes.\\
+Læténtur et exsúltent gentes, †\\
+quóniam iúdicas pópulos in æquitáte, *\\
+et gentes in terra dírigis.\\
+Confiteántur tibi pópuli, Deus, *\\
+confiteántur tibi pópuli omnes.\\
+Terra dedit fructum suum; *\\
+benedícat nos Deus, Deus noster;\\
+benedícat nos Deus, *\\
+et métuant eum omnes fines terræ.\\
+\end{verse}
+\vspace{1cm}
+
+

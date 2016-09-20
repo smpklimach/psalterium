@@ -1,0 +1,62 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 91}\\
+Laus Domini creatoris\\
+\textit{\small Laudes enuntiantur pro gestis Unigeniti. (S. Athanasius)}
+\end{center}
+\begin{verse}[\versewidth]
+Bonum est confitéri Dómino, *\\
+et psállere nómini tuo, Altíssime,\\
+annuntiáre mane misericórdiam tuam, *\\
+et veritátem tuam per noctem,\\
+in decachórdo et psaltério, *\\
+cum cántico in cíthara.\\
+Quia delectásti me, Dómine, in factúra tua, *\\
+et in opéribus mánuum tuárum exsultábo.\\
+Quam magnificáta sunt ópera tua, Dómine: *\\
+nimis profúndæ factæ sunt cogitatiónes tuæ.\\
+Vir insípiens non cognóscet, *\\
+et stultus non intélleget hæc.\\
+Cum germináverint peccatóres sicut fenum, *\\
+et florúerint omnes qui operántur iniquitátem;\\
+hoc tamen erit ad intéritum in sǽculum sǽculi; *\\
+tu autem altíssimus in ætérnum, Dómine.\\
+Quóniam ecce inimíci tui, Dómine, †\\
+quóniam ecce inimíci tui períbunt, *\\
+et dispergéntur omnes qui operántur iniquitátem.\\
+Exaltábis sicut unicórnis cornu meum, *\\
+perfúsus sum óleo úberi.\\
+Et despíciet óculus meus inimícos meos, *\\
+et in insurgéntibus in me malignántibus áudiet auris mea.\\
+Iustus ut palma florébit, *\\
+sicut cedrus Líbani succréscet.\\
+Plantáti in domo Dómini, *\\
+in átriis Dei nostri florébunt.\\
+Adhuc fructus dabunt in senécta, *\\
+úberes et bene viréntes erunt,\\
+ut annúntient quóniam rectus Dóminus, refúgium meum, *\\
+et non est iníquitas in eo.\\
+\end{verse}
+\vspace{1cm}
+
+

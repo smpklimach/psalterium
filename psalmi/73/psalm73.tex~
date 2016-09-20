@@ -1,0 +1,83 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf viij. T.}{\small \bf viij. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{73/liberastivirgam7374.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 73}\\
+Lamentatio propter templum vastatum\\
+\textit{\small Nolite timere eos qui occidunt corpus. (Mt 10,28)}
+\end{center}
+\begin{verse}[\versewidth]
+Ut quid, Deus, reppulísti in finem, *\\
+irátus est furor tuus super oves páscuæ tuæ?\\!
+\vin Memor esto congregatiónis tuæ, *\\
+\vin quam possedísti ab inítio.\\!
+Redemísti virgam hereditátis tuæ, *\\
+mons Sion in quo habitásti.\\!
+\vin Leva gressus tuos in ruínas sempitérnas: *\\
+\vin ómnia vastávit inimícus in sancto.\\!
+Rugiérunt qui odérunt te in médio congregatiónis tuæ. *\\
+Posuérunt signa sua in signa.\\!
+\vin Visi sunt quasi in altum secúrim vibrántes *\\
+\vin in silva condénsa.\\!
+Excidérunt iánuas eius in idípsum; *\\
+in secúri et áscia deiecérunt.\\!
+\vin Incendérunt igni sanctuárium tuum, *\\
+\vin in terram polluérunt tabernáculum nóminis tui;\\!
+dixérunt in corde suo: „Opprimámus eos simul.“ *\\
+Combussérunt omnes congregatiónes Dei in terra.\\!
+\vin Signa nostra non vídimus, †\\
+\vin iam non est prophéta, *\\
+\vin et apud nos non est qui cognóscat ámplius.\\!
+Usquequo, Deus, improperábit inimícus, *\\
+spernet adversárius nomen tuum in finem?\\!
+\vin Ut quid avértis manum tuam, *\\
+\vin et tenes déxteram tuam in médio sinu tuo?\\!
+Deus autem rex noster ante sǽcula, *\\
+operátus est salútes in médio terræ.\\
+II
+Tu conscidísti in virtúte tua mare, *\\
+contribulásti cápita dracónum in aquis.\\!
+Tu confregísti cápita Levíathan, *\\
+dedísti eum escam monstris maris.\\!
+Tu dirupísti fontes et torréntes; *\\
+tu siccásti flúvios perénnes.\\!
+Tuus est dies et tua est nox, *\\
+tu fabricátus es luminária et solem.\\!
+Tu statuísti omnes términos terræ, *\\
+æstátem et híemem, tu plasmásti ea.\\!
+Memor esto huius: †\\
+inimícus improperávit Dómino, *\\
+et pópulus insípiens sprevit nomen tuum.\\!
+Ne tradas béstiis ánimas confiténtes tibi, *\\
+et ánimas páuperum tuórum ne obliviscáris in finem.\\!
+Réspice in testaméntum, *\\
+quia repléta sunt latíbula terræ tentóriis violéntiæ.\\!
+Ne revertátur húmilis factus confúsus; *\\
+pauper et inops laudábunt nomen tuum.\\!
+Exsúrge, Deus, iúdica causam tuam; †\\
+memor esto improperiórum tuórum, *\\
+quæ ab insipiénte fiunt tota die.\\!
+Ne obliviscáris voces inimicórum tuórum; *\\
+tumúltus eórum, qui insúrgunt, ascéndit semper.\\
+\end{verse}
+\vspace{1cm}
+
+

@@ -1,0 +1,85 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{118/adiuvame14.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 118, XIV}\\
+Meditatio verbi Domini in lege\\
+\textit{\small Hoc est præceptum meum, ut diligatis invicem. (Io 15,12)}
+\end{center}
+\begin{verse}[\versewidth]
+Lucérna pédibus meis verbum tuum, *\\
+et lumen sémitis meis.\\!
+\vin Iurávi et státui *\\
+\vin custodíre iudícia iustítiæ tuæ.\\!
+Humiliátus sum usquequáque, Dómine; *\\
+vivífica me secúndum verbum tuum.\\!
+\vin Voluntária oris mei beneplácita sint, Dómine, *\\
+\vin et iudícia tua doce me.\\!
+Anima mea in mánibus meis semper, *\\
+et legem tuam non sum oblítus.\\!
+\vin Posuérunt peccatóres láqueum mihi, *\\
+\vin et de mandátis tuis non errávi.\\!
+Heréditas mea testimónia tua in ætérnum, *\\
+quia exsultátio cordis mei sunt.\\!
+\vin Inclinávi cor meum ad faciéndas iustificatiónes tuas *\\
+\vin in ætérnum, in finem.\\
+\begin{center}
+\textcolor{red}{\bf XV}\\
+\end{center}
+Dúplices corde ódio hábui, *\\
+et legem tuam diléxi.\\!
+\vin Tegmen et scutum meum es tu, *\\
+\vin et in verbum tuum supersperávi.\\!
+Declináte a me, malígni, *\\
+et servábo præcépta Dei mei.\\!
+\vin Súscipe me secúndum elóquium tuum, et vivam; *\\
+\vin et non confúndas me ab exspectatióne mea.\\!
+Susténta me et salvus ero, *\\
+et delectábor in iustificatiónibus tuis semper.\\!
+\vin Sprevísti omnes discedéntes a iustificatiónibus tuis, *\\
+\vin quia mendácium cogitátio eórum.\\!
+Quasi scóriam delésti omnes peccatóres terræ; *\\
+ídeo diléxi testimónia tua.\\!
+\vin Hórruit a timóre tuo caro mea; *\\
+\vin a iudíciis enim tuis tímui.\\
+\begin{center}
+\textcolor{red}{\bf XVI}\\
+\end{center}
+Feci iudícium et iustítiam; *\\
+non tradas me calumniántibus me.\\!
+\vin Sponde pro servo tuo in bonum; *\\
+\vin non calumniéntur me supérbi.\\!
+Oculi mei defecérunt in desidério salutáris tui *\\
+et elóquii iustítiæ tuæ.\\!
+\vin Fac cum servo tuo secúndum misericórdiam tuam, *\\
+\vin et iustificatiónes tuas doce me.\\!
+Servus tuus sum ego; *\\
+da mihi intelléctum, ut sciam testimónia tua.\\!
+\vin Tempus faciéndi Dómino; *\\
+\vin dissipavérunt legem tuam.\\!
+Ideo diléxi præcépta tua, *\\
+super aurum et obrýzum.\\!
+\vin Proptérea ad ómnia mandáta tua dirigébar, *\\
+\vin omnem viam mendácii ódio hábui.\\
+\end{verse}
+\vspace{1cm}
+
+

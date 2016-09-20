@@ -1,0 +1,42 @@
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{43}{43}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf iv. T.}{\small \bf iv. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{113/sitnomendomini.tex}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 113}\\
+Laudabile nomen Domini\\
+\textit{\small Deposuit potentes de sede, et exaltavit humiles. (Lc 1,52)}
+\end{center}
+\begin{verse}[\versewidth]
+Laudáte, púeri Dómini, *\\
+laudáte nomen Dómini.\\!
+\vin  Sit nomen Dómini benedíctum *\\
+\vin  ex hoc nunc et usque in sǽculum.\\!
+A solis ortu usque ad occásum *\nopagebreak\\
+laudábile nomen Dómini.\\!
+\vin  Excélsus super omnes gentes Dóminus, *\\
+\vin  super cælos glória eius.\\!
+Quis sicut Dóminus Deus noster, qui in altis hábitat, *\\
+et humília réspicit in cælo et in terra?\\!
+\vin  Súscitans de terra ínopem, *\\
+\vin  de stércore érigens páuperem,\\!
+ut cóllocet eum cum princípibus, *\\
+cum princípibus pópuli sui.\\!
+\vin  Qui habitáre facit stérilem in domo, *\\
+\vin  matrem filiórum lætántem.
+\end{verse}
+\vspace{1cm}

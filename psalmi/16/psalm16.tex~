@@ -1,0 +1,72 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 16}\\
+Ab impiis salva me, Domine\\
+\textit{\small In diebus carnis suæ… preces offerens exauditus est. (Hebr 5,7)}\\
+\textcolor{red}{\large \bf I}
+\end{center}
+\begin{verse}[\versewidth]
+Exáudi, Dómine, iustítiam meam, *\\
+inténde deprecatiónem meam.\\!
+\vin Auribus pércipe oratiónem meam, *\\
+\vin non in lábiis dolósis.\\!
+De vultu tuo iudícium meum pródeat; *\\
+óculi tui vídeant æquitátes.\\!
+\vin Proba cor meum, et vísita nocte; †\\
+\vin igne me exámina, *\\
+\vin et non invénies in me iniquitátem.\\!
+Non transgréditur os meum ad ópera hóminum, *\\
+propter verba labiórum tuórum custodívi me a viis violénti.\\!
+\vin Rétine gressus meos in sémitis tuis, *\\
+\vin ut non moveántur vestígia mea.\\!
+Ego ad te clamávi quóniam exáudis me, Deus; *\\
+inclína aurem tuam mihi, et exáudi verba mea.\\!
+\vin Mirífica misericórdias tuas, *\\
+\vin qui salvos facis sperántes in te ab insurgéntibus, in déxtera tua.\\!
+Custódi me ut pupíllam óculi, †\\
+sub umbra alárum tuárum prótege me *\\
+a fácie impiórum qui me afflixérunt.\\!
+\end{verse}
+\begin{center}
+\textcolor{red}{\large \bf II}\\
+\end{center}
+\begin{verse}[\versewidth]
+Inimíci mei ánimam meam circumdedérunt, †\\
+ádipem suum conclusérunt; *\\
+os eórum locútum est supérbiam.\\!
+\vin Incedéntes nunc circumdedérunt me, *\\
+\vin óculos suos statuérunt prostérnere in terram.\\!
+Aspéctus eórum quasi leónis paráti ad prædam, *\\
+et sicut cátuli leónis recubántis in ábditis.\\!
+\vin Exsúrge, Dómine, prǽveni eum, supplánta eum; *\\
+\vin éripe ánimam meam ab ímpio frámea tua,\\!
+a mórtuis manu tua, Dómine, *\\
+a mórtuis quorum defécit pórtio vitæ.\\!
+\vin De recónditis tuis adímpleas ventrem eórum, *\\
+\vin saturéntur fílii, et dimíttant relíquias párvulis suis.\\!
+Ego autem in iustítia vidébo fáciem tuam, *\\
+satiábor, cum evigilávero, conspéctu tuo.\\
+\end{verse}
+\vspace{1cm}
+
+

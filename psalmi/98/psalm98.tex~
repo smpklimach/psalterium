@@ -1,0 +1,55 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 98}\\
+Sanctus Dominus Deus noster\\
+\textit{\small Tu es super cherubim, qui malum statum terræ commutasti, cum ad nostram similitudinem factus es. (S. Athanasius)}
+\end{center}
+\begin{verse}[\versewidth]
+Dóminus regnávit, commovéantur pópuli; *\\
+sedet super chérubim, moveátur terra.\\
+Dóminus in Sion magnus, *\\
+et excélsus super omnes pópulos.\\
+Confiteántur nómini tuo magno et terríbili, *\\
+quóniam sanctum est.\\
+Rex potens iudícium díligit: †\\
+tu statuísti quæ recta sunt, *\\
+iudícium et iustítiam in Iacob tu fecísti.\\
+Exaltáte Dóminum Deum nostrum, †\\
+et adoráte ad scabéllum pedum eius, *\\
+quóniam sanctus est.\\
+Móyses et Aaron in sacerdótibus eius, *\\
+et Sámuel inter eos qui ínvocant nomen eius.\\
+Invocábant Dóminum, et ipse exaudiébat eos, *\\
+in colúmna nubis loquebátur ad eos.\\
+Custodiébant testimónia eius *\\
+et præcéptum quod dedit illis.\\
+Dómine Deus noster, tu exaudiébas eos; †\\
+Deus, tu propítius fuísti eis, *\\
+ulcíscens autem adinventiónes eórum.\\
+Exaltáte Dóminum Deum nostrum, †\\
+et adoráte ad montem sanctum eius, *\\
+quóniam sanctus Dóminus Deus noster.\\
+\end{verse}
+\vspace{1cm}
+
+

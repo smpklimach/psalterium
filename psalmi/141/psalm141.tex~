@@ -1,0 +1,54 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{141/domineclamavi.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 141}\\
+Tu es refugium meum\\
+\textit{\small Hæc omnia in Domino tempore passionis impleta sunt. (S. Hilarius)}
+\end{center}
+\begin{verse}[\versewidth]
+Voce mea ad Dóminum clamo, *\\
+voce mea ad Dóminum déprecor;\\
+effúndo in conspéctu eius lamentatiónem meam, *\\
+et tribulatiónem meam ante ipsum pronúntio.\\
+In deficiéndo in me spíritus meus, *\\
+tu cognovísti sémitas meas.\\
+In via qua ambulábam, *\\
+abscondérunt láqueum mihi.\\
+Consídera ad déxteram, et vide; *\\
+et non est qui agnóscat me.\\
+Périit fuga a me, *\\
+et non est qui requírat ánimam meam.\\
+Clamávi ad te, Dómine; †\\
+dixi: „Tu es refúgium meum, *\\
+pórtio mea in terra vivéntium.\\
+Inténde ad deprecatiónem meam, *\\
+quia humiliátus sum nimis.\\
+Líbera me a persequéntibus me, *\\
+quia confortáti sunt super me.\\
+Educ de custódia ánimam meam *\\
+ad confiténdum nómini tuo;\\
+circúmdabunt me iusti, *\\
+cum retribúeris mihi.“\\
+\end{verse}
+\vspace{1cm}
+
+

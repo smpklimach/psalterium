@@ -1,0 +1,55 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf v. T.}{\small \bf v. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{75/tuesdeus.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 75}\\
+Gratiarum actio pro victoria\\
+\textit{\small Videbunt Filium hominis venientem in nubibus cæli. (Mt 24,30)}
+\end{center}
+\begin{verse}[\versewidth]
+Notus in Iudǽa Deus, *\\
+in Israel magnum nomen eius.\\!
+\vin Et est in Salem tabernáculum eius, *\\
+\vin et habitátio eius in Sion.\\!
+Ibi confrégit coruscatiónes arcus, *\\
+scutum, gládium et bellum.\\!
+\vin Illúminans tu, Mirábilis, a móntibus direptiónis; *\\
+\vin spoliáti sunt poténtes corde.\\!
+Dormiérunt somnum suum, *\\
+et defecérunt omnes viri fortes mánibus suis.\\!
+\vin Ab increpatióne tua, Deus Iacob, *\\
+\vin dormitavérunt currus et equi.\\!
+Tu terríbilis es, et quis resístet tibi? *\\
+Ex tunc ira tua.\\!
+\vin De cælo audítum fecísti iudícium; *\\
+\vin terra trémuit et quiévit,\\!
+cum exsúrgeret in iudícium Deus, *\\
+ut salvos fáceret omnes mansuétos terræ.\\!
+\vin Quóniam furor hóminis confitébitur tibi, *\\
+\vin et relíquiæ furóris diem festum agent tibi.\\!
+Vovéte, et réddite Dómino Deo vestro, *\\
+omnes in circúitu eius áfferant múnera Terríbili,\\!
+ei qui aufert spíritum príncipum, *\\
+terríbili apud reges terræ.\\
+\end{verse}
+\vspace{1cm}
+
+

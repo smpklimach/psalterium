@@ -1,0 +1,83 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{118/alleluia2.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{ \bf V}\\
+\end{center}
+\begin{verse}[\versewidth]
+Legem pone mihi, Dómine, viam iustificatiónum tuárum, *\\
+et servábo eam semper.\\!
+\vin Da mihi intelléctum, et servábo legem tuam, *\\
+\vin et custódiam illam in toto corde meo.\\!
+Deduc me in sémitam præceptórum tuórum, *\\
+quia ipsam vólui.\\!
+\vin Inclína cor meum in testimónia tua, *\\
+\vin et non in avarítiam.\\!
+Avérte óculos meos, ne vídeant vanitátem, *\\
+in via tua vivífica me.\\!
+\vin Súscita servo tuo elóquium tuum, *\\
+\vin quod est ad timórem tuum.\\!
+Amove oppróbrium meum quod suspicátus sum, *\\
+quia iudícia tua iucúnda.\\!
+\vin Ecce concupívi mandáta tua; *\\
+\vin in iustítia tua vivífica me.\\
+\begin{center}
+\textcolor{red}{\bf VI}\\
+\end{center}
+Et véniat super me misericórdia tua, Dómine, *\\
+salutáre tuum secúndum elóquium tuum.\\!
+\vin Et respondébo exprobrántibus mihi verbum, *\\
+\vin quia sperávi in sermónibus tuis.\\!
+Et ne áuferas de ore meo verbum veritátis usquequáque, *\\
+quia in iudíciis tuis supersperávi.\\!
+\vin Et custódiam legem tuam semper, *\\
+\vin in sǽculum et in sǽculum sǽculi.\\!
+Et ambulábo in latitúdine, *\\
+quia mandáta tua exquisívi.\\!
+\vin Et loquar de testimóniis tuis in conspéctu regum, *\\
+\vin et non confúndar.\\!
+Et delectábor in præcéptis tuis, *\\
+quæ diléxi.\\!
+\vin Et levábo manus meas ad præcépta tua, quæ diléxi; *\\
+\vin et exercébor in iustificatiónibus tuis.\\
+\begin{center}
+\textcolor{red}{\bf VII}\\
+\end{center}
+Memor esto verbi tui servo tuo, *\\
+in quo mihi spem dedísti.\\!
+\vin Hoc me consolátum est in humiliatióne mea, *\\
+\vin quia elóquium tuum vivificávit me.\\!
+Supérbi derisérunt me veheménter; *\\
+a lege autem tua non declinávi.\\!
+\vin Memor fui iudiciórum tuórum a sǽculo, Dómine, *\\
+\vin et consolátus sum.\\!
+Indignátio ténuit me *\\
+propter peccatóres derelinquéntes legem tuam.\\!
+\vin Cántica factæ sunt mihi iustificatiónes tuæ *\\
+\vin in loco peregrinatiónis meæ.\\!
+Memor fui nocte nóminis tui, Dómine, *\\
+et custódiam legem tuam.\\!
+\vin Hoc factum est mihi, *\\
+\vin quia mandáta tua servávi.\\
+\end{verse}
+\vspace{1cm}
+
+

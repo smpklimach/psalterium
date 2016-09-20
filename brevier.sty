@@ -1,0 +1,106 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{brevier}[2014/04/01 Standard LaTeX package fuer Brevierartige-Dateien]
+
+\RequirePackageWithOptions{gregoriotex}
+\RequirePackageWithOptions{color}
+\RequirePackageWithOptions{textcomp}
+\RequirePackageWithOptions{mathrsfs}
+\RequirePackageWithOptions{yfonts}
+\RequirePackageWithOptions{fancyhdr}
+\RequirePackageWithOptions{titlesec}
+\RequirePackageWithOptions{verse}
+%\RequirePackageWithOptions{cjhebrew}
+%\RequirePackageWithOptions{hebtex}
+
+%\input{hebtex.tex}
+
+\geometry{a5paper, top=20mm, left=22mm, right=16mm, bottom=25mm}
+%\DeclareMathAlphabet{\mathpzc}{OT1}{pzc}{m}{it}
+
+\newcommand{\rot}[1]{{\textcolor{red}{#1}}} 		%rote Schrift
+\newcommand{\frot}[1]{{\bf\textcolor{red}{#1}}}	%fette rote Schrift
+\newcommand{\crot}[1]{{\centering{\textcolor{red}{#1}}\\}} %mittiger roter Text
+\newcommand{\srot}[1]{{\small\textcolor{red}{#1}}} 	%kleiner roter Text
+\newcommand{\csrot}[1]{{\centering{\small\textcolor{red}{#1}}\\}}
+\newcommand{\cen}[1]{{\centering{#1}\\}}
+
+\newcommand{\kap}[1]{{{\centering{\textfrak{\huge{#1}}}\\}}}	%Kapitelüberschriften (z.b. Commune...)
+\newcommand{\kapklein}[1]{{{\centering{\textfrak{\LARGE{#1}}}\\}}}	%Kapitelüberschriften (z.b. dominica...)
+\newcommand{\kkap}{\renewcommand{\leftmark}}	%Kopfzeile für dieses Kapitel
+
+\newcommand{\resp}{\gresetfirstlineaboveinitial{\small \textcolor{red}{\bf \Rbar \ br.}}{\small \bf \Rbar \ br.}}
+\newcommand{\resptp}{\gresetfirstlineaboveinitial{\small \textcolor{red}{\bf T. P.}}{\small \bf T. P.}}
+\newcommand{\versik}[2]{{\textcolor{red}{\gothVbar .\ }#1\\}{\indent\textcolor{red}{\gothRbar .\ }#2}}
+\newcommand{\psal}[1]{\crot{Psalm #1}}
+\newcommand{\lectio}[1]{\crot{Lectio brevis \hfill #1}}
+\newcommand{\kurzlesung}[1]{\crot{Kurzlesung \hfill #1}}
+\newcommand{\textbox}[1]{\parbox{0.333\textwidth}{#1}}
+\newcommand{\cant}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \frot{\normalsize Canticum}\hfil}\vspace{0.2cm}\textbox{\hfill \rot{#1}}}
+\newcommand{\canti}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \frot{\large Canticum I}\hfil}\vspace{0.2cm}\textbox{\hfill \rot{#1}}}
+\newcommand{\cantii}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \frot{\large Canticum II}\hfil}\vspace{0.2cm}\textbox{\hfill \rot{#1}}}
+\newcommand{\cantiii}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \frot{\large Canticum III}\hfil}\vspace{0.2cm}\textbox{\hfill \rot{#1}}}
+\newcommand{\cantmag}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \frot{\large Magnificat}\hfil}\vspace{0.2cm}\textbox{\hfill \frot{#1}}}
+
+\newcommand{\cantben}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \frot{\large Benedictus}\hfil}\vspace{0.2cm}\textbox{\hfill \frot{#1}}}
+\newcommand{\cantnun}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \frot{\large Nunc dimittis}\hfil}\vspace{0.2cm}\textbox{\hfill \frot{#1}}}
+
+\newcommand{\cantdo}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \frot{\normalsize Dominica}\hfil}\vspace{0.2cm}\textbox{\hfill \frot{#1}}}
+\newcommand{\cantferii}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \frot{\normalsize Feria Secunda}\hfil}\vspace{0.2cm}\textbox{\hfill \frot{#1}}}
+\newcommand{\cantferiii}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \frot{\normalsize Feria Tertia}\hfil}\vspace{0.2cm}\textbox{\hfill \frot{#1}}}
+\newcommand{\cantferiv}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \frot{\normalsize Feria Quarta}\hfil}\vspace{0.2cm}\textbox{\hfill \frot{#1}}}
+\newcommand{\cantferv}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \frot{\normalsize Feria Quinta}\hfil}\vspace{0.2cm}\textbox{\hfill \frot{#1}}}
+\newcommand{\cantfervi}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \frot{\normalsize Feria Sexta}\hfil}\vspace{0.2cm}\textbox{\hfill \frot{#1}}}
+\newcommand{\cantsab}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \frot{\normalsize Sabbato}\hfil}\vspace{0.2cm}\textbox{\hfill \frot{#1}}}
+\newcommand{\cantvig}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \frot{\normalsize Ad Vigilias}\hfil}\vspace{0.2cm}\textbox{\hfill \frot{#1}}}
+\newcommand{\cantlaui}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \frot{\normalsize Ad Laudes I}\hfil}\vspace{0.2cm}\textbox{\hfill \frot{#1}}}
+\newcommand{\cantlauii}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \frot{\normalsize Ad Laudes II}\hfil}\vspace{0.2cm}\textbox{\hfill \frot{#1}}}
+\newcommand{\cantves}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \frot{\normalsize Ad Vesperas}\hfil}\vspace{0.2cm}\textbox{\hfill \frot {#1}}}
+\newcommand{\cantps}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \frot{\normalsize Psalmus}\hfil}\vspace{0.2cm}\textbox{\hfill \frot {#1}}}
+
+
+\newcommand{\nocturnusi}[1]{\crot{I Nocturnus \hfill #1}}
+\newcommand{\nocturnusii}[1]{\crot{II Nocturnus \hfill #1}}
+\newcommand{\noci}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \rot{\normalsize I Nocturnus}\hfil}\vspace{0.2cm}\textbox{\hfill \rot{#1}}}
+\newcommand{\nocii}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \rot{\normalsize II Nocturnus}\hfil}\vspace{0.2cm}\textbox{\hfill \rot{#1}}}
+\newcommand{\tertia}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \rot{\normalsize Ad Tertiam}\hfil}\vspace{0.2cm}\textbox{\hfill \rot{#1}}}
+\newcommand{\sexta}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \rot{\normalsize Ad Sextam}\hfil}\vspace{0.2cm}\textbox{\hfill \rot{#1}}}
+\newcommand{\nona}[1]{\noindent\textbox{\ \hfill}\textbox{\hfil \rot{\normalsize Ad Nonam}\hfil}\vspace{0.2cm}\textbox{\hfill \rot{#1}}}
+
+\newcommand{\lectiodo}[1]{\crot{Dominica \hfill #1}}
+
+\newcommand{\lectioii}[1]{\crot{Feria secunda \hfill #1}}
+\newcommand{\lectioiii}[1]{\crot{Feria tertia \hfill #1}}
+\newcommand{\lectioiv}[1]{\crot{Feria quarta \hfill #1}}
+\newcommand{\lectiov}[1]{\crot{Feria quinta \hfill #1}}
+\newcommand{\lectiovi}[1]{\crot{Feria sexta \hfill #1}}
+\newcommand{\lectiosab}[1]{\crot{Sabbato \hfill #1}}
+\input GoudyIn.fd
+\newcommand*\inifamily{\usefont{U}{GoudyIn}{xl}{n}}
+
+\newcommand{\mammut}{\normalfont\inifamily\textcolor{red}} %Befehl für in eine gabc-Datei für Mammut-Initialie
+%\newcommand{\cjh{\textsf{cjhebrew}}
+
+\setlength{\topmargin}{-1em}
+\setlength{\footskip}{0.8cm}
+%\setlength{\footskip}{-1em}
+\settowidth{\versewidth}{inebriabuntur ab ubertate domus tuae, * 123}
+\setlength{\stanzaskip}{3.5pt}
+
+
+\newlength{\saveleftmargini}
+\setlength{\saveleftmargini}{\leftmargini}
+\setlength{\leftmargini}{-1em}
+
+\pagestyle{fancy}
+\setlength{\headheight}{15pt}
+\fancyhead{} % clear all header fields
+\fancyhead[CE]{\scriptsize{\scshape\nouppercase{\leftmark}}}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[CO]{\scriptsize{\scshape\nouppercase{\rightmark}}}
+\fancyfoot{} % clear all footer fields
+%\fancyfoot[CE,CO]{\thepage}
+\renewcommand{\headrulewidth}{0 pt}
+\renewcommand{\footrulewidth}{0 pt}
+
+\titleformat{\section}[block]{\bf\centering{\large\sc}}{}{1em}{}[]
+\renewcommand{\sectionmark}[1]{\markright{#1}{}}

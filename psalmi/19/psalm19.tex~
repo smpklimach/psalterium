@@ -1,0 +1,51 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 19}\\
+Oratio pro regis victoria\\
+\textit{\small Quicumque invocaverit nomen Domini, salvus erit. (Act 2,21)}
+\end{center}
+\begin{verse}[\versewidth]
+Exáudiat te Dóminus in die tribulatiónis, *\\
+prótegat te nomen Dei Iacob.\\!
+\vin Mittat tibi auxílium de sancto, *\\
+\vin et de Sion tueátur te.\\!
+Memor sit omnis sacrifícii tui, *\\
+et holocáustum tuum pingue hábeat.\\!
+\vin Tríbuat tibi secúndum cor tuum, *\\
+\vin et omne consílium tuum adímpleat.\\!
+Lætábimur in salutári tuo, †\\
+et in nómine Dei nostri levábimus signa; *\\
+ímpleat Dóminus omnes petitiónes tuas.\\!
+\vin Nunc cognóvi, quóniam salvum fecit Dóminus christum suum: †\\
+\vin exaudívit illum de cælo sancto suo, *\\
+\vin in virtútibus salútis déxteræ eius.\\!
+Hi in cúrribus et hi in equis, *\\
+nos autem nomen Dómini Dei nostri invocávimus.\\!
+\vin Ipsi incurváti sunt et cecidérunt, *\\
+\vin nos autem surréximus et erécti sumus.\\!
+Dómine, salvum fac regem, *\\
+et exáudi nos in die qua invocavérimus te.\\
+\end{verse}
+\vspace{1cm}
+
+

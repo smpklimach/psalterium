@@ -1,0 +1,48 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 128}\\
+Populi afflicti renovata fiducia\\
+\textit{\small Ecclesia loquitur de iis quæ tolerat. (S. Augustinus)}
+\end{center}
+\begin{verse}[\versewidth]
+Sæpe expugnavérunt me a iuventúte mea, *\\
+dicat nunc Israel:\\
+Sæpe expugnavérunt me a iuventúte mea, *\\
+étenim non potuérunt advérsum me.\\
+Supra dorsum meum aravérunt aratóres, *\\
+prolongavérunt sulcos suos.\\
+Dóminus autem iustus *\\
+concídit cervíces peccatórum.\\
+Confundántur et convertántur retrórsum *\\
+omnes qui odérunt Sion.\\
+Fiant sicut fenum tectórum, *\\
+quod priúsquam evellátur, exáruit;\\
+de quo non implévit manum suam qui metit, *\\
+et sinum suum qui manípulos cólligit.\\
+Et non dixérunt qui præteríbant: †\\
+„Benedíctio Dómini super vos, *\\
+benedícimus vobis in nómine Dómini.“\\
+\end{verse}
+\vspace{1cm}
+
+

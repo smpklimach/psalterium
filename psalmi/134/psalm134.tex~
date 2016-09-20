@@ -1,0 +1,75 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{134/omniaquaecumque.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 134}\\
+Laus Domini mirabilia operantis\\
+\textit{\small Populus acquisitionis… annuntiate virtutes eius, qui de tenebris vos vocavit in admirabile lumen suum. (cf. 1 Petr 2,9)}
+\end{center}
+\begin{verse}[\versewidth]
+Laudáte nomen Dómini, *\\
+laudáte, servi Dómini,\\
+qui statis in domo Dómini, *\\
+in átriis domus Dei nostri.\\
+Laudáte Dóminum, quia bonus Dóminus; *\\
+psállite nómini eius, quóniam suáve.\\
+Quóniam Iacob elégit sibi Dóminus, *\\
+Israel in pecúlium sibi.\\
+Quia ego cognóvi quod magnus est Dóminus, *\\
+et Deus noster præ ómnibus diis.\\
+Omnia quæcúmque vóluit Dóminus, †\\
+fecit in cælo et in terra, *\\
+in mari et in ómnibus abýssis.\\
+Addúcens nubes ab extrémo terræ, †\\
+fúlgura in plúviam facit, *\\
+prodúcit ventos de thesáuris suis.\\
+Qui percússit primogénita Ægýpti *\\
+ab hómine usque ad pecus.\\
+Misit signa et prodígia in médio tui, Ægýpte, *\\
+in Pharaónem et in omnes servos eius.\\
+Qui percússit gentes multas, *\\
+et occídit reges fortes:\\
+Sehon regem Amorrhæórum, et Og regem Basan, *\\
+et ómnia regna Chánaan.\\
+Et dedit terram eórum hereditátem, *\\
+hereditátem Israel pópulo suo.\\
+Dómine, nomen tuum in ætérnum; *\\
+Dómine, memoriále tuum in generatiónem et generatiónem.\\
+Quia iudicábit Dóminus pópulum suum, *\\
+et servórum suórum miserébitur.\\
+Simulácra géntium argéntum et aurum, *\\
+ópera mánuum hóminum.\\
+Os habent, et non loquéntur; *\\
+óculos habent, et non vidébunt;\\
+aures habent, et non áudient; *\\
+neque enim est spíritus in ore ipsórum.\\
+Símiles illis fiant qui fáciunt ea, *\\
+et omnes qui confídunt in eis.\\
+Domus Israel, benedícite Dómino; *\\
+domus Aaron, benedícite Dómino;\\
+domus Levi, benedícite Dómino; *\\
+qui timétis Dóminum, benedícite Dómino.\\
+Benedíctus Dóminus ex Sion, *\\
+qui hábitat in Ierúsalem.\\
+\end{verse}
+\vspace{1cm}
+
+

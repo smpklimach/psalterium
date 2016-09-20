@@ -1,0 +1,58 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 84}\\
+Propinqua est salus nostra\\
+\textit{\small In terram delapso Salvatore nostro, benedixit Deus terram suam. (Origenes)}
+\end{center}
+\begin{verse}[\versewidth]
+Complacuísti tibi, Dómine, in terra tua, *\\
+convertísti captivitátem Iacob.\\
+Remisísti iniquitátem plebis tuæ, *\\
+operuísti ómnia peccáta eórum.\\
+Contraxísti omnem iram tuam, *\\
+revertísti a furóre indignatiónis tuæ.\\
+Convérte nos, Deus, salutáris noster, *\\
+et avérte iram tuam a nobis.\\
+Numquid in ætérnum irascéris nobis, *\\
+aut exténdes iram tuam a generatióne in generatiónem?\\
+Nonne tu convérsus vivificábis nos, *\\
+et plebs tua lætábitur in te?\\
+Osténde nobis, Dómine, misericórdiam tuam, *\\
+et salutáre tuum da nobis.\\
+Audiam quid loquátur Dóminus Deus, †\\
+quóniam loquétur pacem ad plebem suam et sanctos suos, *\\
+et ad eos qui convertúntur corde.\\
+Verúmtamen prope timéntes eum salutáre ipsíus, *\\
+ut inhábitet glória in terra nostra.\\
+Misericórdia et véritas obviavérunt sibi, *\\
+iustítia et pax osculátæ sunt.\\
+Véritas de terra orta est, *\\
+et iustítia de cælo prospéxit.\\
+Etenim Dóminus dabit benignitátem, *\\
+et terra nostra dabit fructum suum.\\
+Iustítia ante eum ambulábit, *\\
+et ponet in via gressus suos.\\
+\end{verse}
+\vspace{1cm}
+
+

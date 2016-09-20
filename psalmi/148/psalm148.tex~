@@ -1,0 +1,61 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 148}\\
+Præconium Domini creatoris\\
+\textit{\small Sedenti in throno et Agno: benedictio et honor et gloria et potestas in sæcula sæculorum. (Ap 5,13)}
+\end{center}
+\begin{verse}[\versewidth]
+Laudáte Dóminum de cælis, *\\
+laudáte eum, in excélsis.\\!
+Laudáte eum, omnes ángeli eius, *\\
+laudáte eum, omnes virtútes eius.\\!
+Laudáte eum, sol et luna, *\\
+laudáte eum, omnes stellæ et lumen.\\!
+Laudáte eum, cæli cælórum, *\\
+et aquæ omnes quæ super cælos sunt.\\!
+Laudent nomen Dómini, *\\
+quia ipse mandávit, et creáta sunt.\\!
+Státuit ea in ætérnum, et in sǽculum sǽculi; *\\
+præcéptum pósuit, et non præteríbit.\\!
+Laudáte Dóminum de terra, *\\
+dracónes et omnes abýssi,\\!
+ignis, grando, nix, fumus, *\\
+spíritus procellárum qui facit verbum eius,\\!
+montes et omnes colles, *\\
+ligna fructífera et omnes cedri,\\!
+béstiæ et univérsa pécora, *\\
+serpéntes et vólucres pennátæ.\\!
+Reges terræ et omnes pópuli, *\\
+príncipes et omnes iúdices terræ,\\!
+iúvenes et vírgines, *\\
+senes cum iunióribus,\\!
+laudent nomen Dómini, *\\
+quia exaltátum est nomen eius solíus.\\!
+Conféssio eius super cælum et terram, *\\
+et exaltávit cornu pópuli sui.\\!
+Hymnus ómnibus sanctis eius, *\\
+fíliis Israel, pópulo qui propínquus est ei.\\
+\end{verse}
+\vspace{1cm}
+
+

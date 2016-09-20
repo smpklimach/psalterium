@@ -1,0 +1,121 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf v. T.}{\small \bf v. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{106/denecessitatibus.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 106}\\
+Pro liberatione gratiarum actio\\
+\textit{\small Verbum misit Deus filiis Israel, annuntians pacem per Iesum Christum. (Act 10,36)}
+\end{center}
+\begin{verse}[\versewidth]
+Confitémini Dómino, quóniam bonus, *\\
+quóniam in sǽculum misericórdia eius.\\!
+\vin Dicant qui redémpti sunt a Dómino, *\\
+\vin quos redémit de manu adversárii,\\!
+et de regiónibus congregávit eos, †\\
+a solis ortu et occásu, *\\
+ab aquilóne et mari.\\!
+\vin Erravérunt in solitúdine, in inaquóso, *\\
+\vin viam civitátis habitatiónis non invenérunt.\\!
+Esuriéntes et sitiéntes, *\\
+ánima eórum in ipsis defécit.\\!
+\vin Et clamavérunt ad Dóminum, cum tribularéntur, *\\
+\vin et de necessitátibus eórum erípuit eos.\\!
+Et dedúxit eos in viam rectam, *\\
+ut irent in civitátem habitatiónis.\\!
+\vin Confiteántur Dómino propter misericórdiam eius, *\\
+\vin et mirabília eius in fílios hóminum;\\!
+quia satiávit ánimam sitiéntem, *\\
+et ánimam esuriéntem replévit bonis.\\!
+\vin Sedéntes in ténebris et umbra mortis, *\\
+\vin vincti in mendicitáte et ferro,\\!
+quia exacerbavérunt elóquia Dei, *\\
+et consílium Altíssimi sprevérunt.\\!
+\vin Et humiliávit in labóribus cor eórum, *\\
+\vin infirmáti sunt, nec fuit qui adiuváret.\\!
+Et clamavérunt ad Dóminum, cum tribularéntur, *\\
+et de necessitátibus eórum liberávit eos.\\!
+\vin Et edúxit eos de ténebris et umbra mortis, *\\
+\vin et víncula eórum dirúpit.\\!
+Confitéantur Dómino propter misericórdiam eius, *\\
+et mirabília eius in fílios hóminum;\\!
+\vin quia contrívit portas ǽreas, *\\
+\vin et vectes férreos confrégit.\\
+II
+Stulti facti sunt in via iniquitátis suæ, *\\
+et propter iniustítias suas afflícti sunt.\\!
+\vin Omnem escam abomináta est ánima eórum, *\\
+\vin et appropinquavérunt usque ad portas mortis.\\!
+Et clamavérunt ad Dóminum, cum tribularéntur, *\\
+et de necessitátibus eórum liberávit eos.\\!
+\vin Misit verbum suum et sanávit eos, *\\
+\vin et erípuit eos de interitiónibus eórum.\\!
+Confiteántur Dómino propter misericórdiam eius, *\\
+et mirabília eius in fílios hóminum.\\!
+\vin Et sacríficent sacrifícium laudis, *\\
+\vin et annúntient ópera eius in exsultatióne.\\!
+Qui descéndunt mare in návibus, *\\
+faciéntes operatiónem in aquis multis.\\!
+\vin Ipsi vidérunt ópera Dómini, *\\
+\vin et mirabília eius in profúndo.\\!
+Dixit et excitávit spíritum procéllæ, *\\
+et exaltáti sunt fluctus eius.\\!
+\vin Ascéndunt usque ad cælos, †\\
+\vin et descéndunt usque ad abýssos; *\\
+\vin ánima eórum in malis tabescébat.\\!
+Turbáti sunt et moti sunt sicut ébrius, *\\
+et omnis sapiéntia eórum devoráta est.\\!
+\vin Et clamavérunt ad Dóminum cum tribularéntur, *\\
+\vin et de necessitátibus eórum edúxit eos.\\!
+Et státuit procéllam eius in auram, *\\
+et tacuérunt fluctus eius.\\!
+\vin Et lætáti sunt, quia siluérunt, *\\
+\vin et dedúxit eos in portum voluntátis eórum.\\!
+Confiteántur Dómino propter misericórdiam eius, *\\
+et mirabília eius in fílios hóminum.\\!
+\vin Et exáltent eum in ecclésia plebis, *\\
+\vin et in convéntu seniórum laudent eum.\\
+III
+Pósuit flúmina in desértum, *\\
+et éxitus aquárum in sitim,\\!
+\vin terram fructíferam in salsúginem, *\\
+\vin a malítia inhabitántium in ea.\\!
+Pósuit desértum in stagna aquárum, *\\
+et terram sine aqua in éxitus aquárum.\\!
+\vin Et collocávit illic esuriéntes, *\\
+\vin et constituérunt civitátem habitatiónis.\\!
+Et seminavérunt agros et plantavérunt víneas, *\\
+et fecérunt fructum in provéntum suum.\\!
+\vin Et benedíxit eis et multiplicáti sunt nimis, *\\
+\vin et iuménta eórum non minorávit.\\!
+Et pauci facti sunt, et vexáti sunt *\\
+a tribulatióne malórum et dolóre.\\!
+\vin Effúdit contemptiónem super príncipes, *\\
+\vin et erráre fecit eos in desérto ínvio.\\!
+Et suscépit páuperem de inópia, *\\
+et pósuit sicut oves famílias.\\!
+\vin Vidébunt recti et lætabúntur, *\\
+\vin et omnis iníquitas oppilábit os suum.\\!
+Quis sápiens, et custódiet hæc, *\\
+et intélleget misericórdias Dómini?\\
+\end{verse}
+\vspace{1cm}
+
+

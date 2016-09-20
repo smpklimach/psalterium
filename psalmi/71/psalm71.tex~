@@ -1,0 +1,76 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf vj. T.}{\small \bf vj. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{71/tenuistidomine.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 71}\\
+Regia Messiæ potestas\\
+\textit{\small Apertis thesauris suis, obtulerunt ei munera: aurum, tus et myrrham. (Mt 2,11)}
+\end{center}
+\begin{verse}[\versewidth]
+Deus, iudícium tuum regi da, *\\
+et iustítiam tuam fílio regis;\\!
+\vin iúdicet pópulum tuum in iustítia, *\\
+\vin et páuperes tuos in iudício.\\!
+Afferant montes pacem pópulo, *\\
+et colles iustítiam.\\!
+\vin Iudicábit páuperes pópuli, †\\
+\vin et salvos fáciet fílios ínopis, *\\
+\vin et humiliábit calumniatórem.\\!
+Et permanébit cum sole et ante lunam, *\\
+in generatióne et generatiónem.\\!
+\vin Descéndet sicut plúvia in gramen, *\\
+\vin et sicut imber írrigans terram.\\!
+Florébit in diébus eius iustítia et abundántia pacis, *\\
+donec auferátur luna.\\!
+\vin Et dominábitur a mari usque ad mare, *\\
+\vin et a Flúmine usque ad términos orbis terrárum.\\!
+Coram illo prócident íncolæ desérti, *\\
+et inimíci eius terram lingent.\\!
+\vin Reges Tharsis et ínsulæ múnera ófferent, *\\
+\vin reges Arabum et Saba dona addúcent.\\!
+Et adorábunt eum omnes reges, *\\
+omnes gentes sérvient ei.\\
+II
+Quia liberábit ínopem clamántem, *\\
+et páuperem cui non erat adiútor.\\!
+Parcet páuperi et ínopi, *\\
+et ánimas páuperum salvas fáciet.\\!
+Ex oppressióne et violéntia rédimet ánimas eórum, *\\
+et pretiósus erit sanguis eórum coram illo.\\!
+Et vivet, et dábitur ei de auro Arábiæ, †\\
+et orábunt pro ipso semper; *\\
+tota die benedícent ei.\\!
+Et erit ubértas fruménti in terra, *\\
+in summis móntium fluctuábit;\\!
+sicut Líbanus fructus eius florébit, *\\
+et colligábitur sicut fenum terræ.\\!
+Sit nomen eius benedíctum in sǽcula, *\\
+ante solem permanébit nomen eius.\\!
+Et benedícentur in ipso omnes tribus terræ, *\\
+omnes gentes magnificábunt eum.\\!
+Benedíctus Dóminus Deus, Deus Israel, *\\
+qui facit mirabília solus;\\!
+et benedíctum nomen maiestátis eius in ætérnum, *\\
+et replébitur maiestáte eius omnis terra. Fiat, fiat.\\
+\end{verse}
+\vspace{1cm}
+
+

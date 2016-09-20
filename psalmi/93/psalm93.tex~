@@ -1,0 +1,78 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 93}\\
+Dominus iustorum ultor\\
+\textit{\small Vindex est Dominus de his omnibus: non enim vocavit nos Deus in immunditiam, sed in sanctificationem. (1 Th 4,6-7)}
+\end{center}
+\begin{verse}[\versewidth]
+Deus ultiónum, Dómine, *\\
+Deus ultiónum, effúlge.\\
+Exaltáre qui iúdicas terram, *\\
+redde retributiónem supérbis.\\
+Usquequo peccatóres, Dómine, *\\
+úsquequo peccatóres exsultábunt?\\
+Effabúntur et loquéntur protérva, *\\
+gloriabúntur omnes qui operántur iniquitátem?\\
+Pópulum tuum, Dómine, humíliant, *\\
+et hereditátem tuam vexant.\\
+Víduam et ádvenam interfíciunt, *\\
+et pupíllos occídunt.\\
+Et dixérunt: „Non vidébit Dóminus, *\\
+nec intélleget Deus Iacob.“\\
+Intellégite, insipiéntes in pópulo, *\\
+et stulti quando sapiétis?\\
+Qui plantávit aurem, non áudiet, *\\
+aut qui finxit óculum, non respíciet?\\
+Qui córripit gentes, non árguet, *\\
+qui docet hóminem sciéntiam?\\
+Dóminus scit cogitatiónes hóminum *\\
+quóniam vanæ sunt.\\
+Beátus homo quem tu erudíeris, Dómine, *\\
+et de lege tua docúeris eum,\\
+ut mítiges ei a diébus malis, *\\
+donec fodiátur peccatóri fóvea.\\
+Quia non repéllet Dóminus plebem suam, *\\
+et hereditátem suam non derelínquet.\\
+Quia ad iustítiam revertétur iudícium, *\\
+et sequéntur illam omnes qui recto sunt corde.\\
+Quis consúrget mihi advérsus malignántes, *\\
+aut quis stabit mecum advérsus operántes iniquitátem?\\
+Nisi quia Dóminus adiúvit me, *\\
+paulo minus habitásset in loco siléntii ánima mea.\\
+Si dicébam: „Motus est pes meus“, *\\
+misericórdia tua, Dómine, sustentábat me.\\
+In multitúdine sollicitúdinum meárum in corde meo, *\\
+consolatiónes tuæ lætificavérunt ánimam meam.\\
+Numquid sociábitur tibi sedes iniquitátis, *\\
+quæ fingit moléstiam contra præcéptum?\\
+Irruent in ánimam iusti, *\\
+et sánguinem innocéntem condemnábunt.\\
+Et factus est mihi Dóminus in præsídium *\\
+et Deus meus in rupem refúgii mei;\\
+et reddet illis iniquitátem ipsórum, †\\
+et in malítia eórum dispérdet eos, *\\
+dispérdet illos Dóminus Deus noster.\\
+\end{verse}
+\vspace{1cm}
+
+

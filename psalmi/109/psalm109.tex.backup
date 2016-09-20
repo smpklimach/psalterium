@@ -1,0 +1,46 @@
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{43}{43}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small {\bf 7. T.}}{\small {7. T.}}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize \textsc{{ 7. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{109/dixitdominus.tex}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 109}\\
+Messias rex et sacerdos\\
+\textit{\small Oportet illum regnare, donec ponat omnes inimicos sub pedibus eius. (1 Cor 15,25)}
+\end{center}
+\begin{verse}[\versewidth]
+ Dixit Dóminus Dómino meo: *\\
+„Sede a dextris meis,\\!
+\vin  donec ponam inimícos tuos *\\
+\vin  scabéllum pedum tuórum.“\\!
+Virgam poténtiæ tuæ emíttet Dóminus ex Sion: *\\
+domináre in médio inimicórum tuórum.\\!
+\vin  Tecum principátus in die virtútis tuæ, †\\
+\vin  in splendóribus sanctis, *\\
+\vin  ex útero matutíni velut rorem génui te.\\!
+Iurávit Dóminus et non pænitébit eum: *\\
+„Tu es sacérdos in ætérnum secúndum órdinem Melchísedech.“\\!
+\vin  Dóminus a dextris tuis, *\\
+\vin  conquassábit in die iræ suæ reges.\\!
+Iudicábit in natiónibus: †\\
+cumulántur cadávera, *\\
+conquassábit cápita in terra spatiósa.\\! %\pagebreak
+\vin  De torrénte in via bibet, *\\
+\vin  proptérea exaltábit caput.\\ 
+
+\end{verse}
+\vspace{1cm}
+

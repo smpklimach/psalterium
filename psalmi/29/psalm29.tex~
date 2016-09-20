@@ -1,0 +1,61 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 3. T.}{\small \bf 3. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+%\includescore{1/quisequitur.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 29}\\
+Gratiarum actio pro liberatione a morte\\
+\textit{\small Christus post resurrectionem gloriosam Patri gratias agit. (Cassiodorus)}
+\end{center}
+\begin{verse}[\versewidth]
+Exaltábo te, Dómine, quóniam extraxísti me, *\\
+nec delectásti inimícos meos super me.\\
+Dómine Deus meus, clamávi ad te, *\\
+et sanásti me.\\
+Dómine, eduxísti ab inférno ánimam meam, *\\
+vivificásti me, ut non descénderem in lacum.\\
+Psállite Dómino, sancti eius, *\\
+et confitémini memóriæ sanctitátis eius.\\
+Quóniam ad moméntum indignátio eius, *\\
+et per vitam volúntas eius.\\
+Ad vésperum demorátur fletus, *\\
+ad matutínum lætítia.\\
+Ego autem dixi in securitáte mea: *\\
+„Non movébor in ætérnum.“\\
+Dómine, in voluntáte tua *\\
+præstitísti monti meo virtútem;\\
+avertísti fáciem tuam a me, *\\
+et factus sum conturbátus.\\
+Ad te, Dómine, clamábam, *\\
+et ad Deum meum deprecábar.\\
+Quæ utílitas in sánguine meo, *\\
+dum descéndo in corruptiónem?\\
+Numquid confitébitur tibi pulvis, *\\
+aut annuntiábit veritátem tuam?\\
+Audi, Dómine, et miserére mei, *\\
+Dómine, esto mihi adiútor.\\
+Convertísti planctum meum in choros mihi, *\\
+conscidísti saccum meum, et accinxísti me lætítia,\\
+ut cantet tibi glória mea, et non táceat. *\\
+Dómine Deus meus, in ætérnum confitébor tibi.\\
+\end{verse}
+\vspace{1cm}
+
+

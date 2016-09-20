@@ -1,0 +1,156 @@
+
+
+\setspaceafterinitial{2.2mm plus 0em minus 0em}
+\setspacebeforeinitial{2.2mm plus 0em minus 0em}
+
+\def\greinitialformat#1{%
+{\fontsize{39}{39}\selectfont #1}%
+}
+
+%\redlines
+
+\gresetfirstlineaboveinitial{\small \bf 7. T.}{\small \bf 7. T.}
+%\setaboveinitialseparation{0.52mm}
+%\setsecondannotation{\footnotesize {{ iv. T.}}}
+
+% We type a text in the top right corner of the score:
+%\commentary{{\small \emph{Cf. Is. 30, 19 . 30 ; Ps. 79}}}
+
+% and finally we include the score. The file must be in the same directory as this one.
+\includescore{17/vivitdominus171819.tex}
+\vspace{0.3cm}
+\begin{center}
+ \textcolor{red}{\large \bf Psalmus 17}\\
+Gratiarum actio\\
+\textit{\small Si Deus pro nobis, quis contra nos? (Rom 8,31)}\\
+\textcolor{red}{\large \bf I}
+\end{center}
+\begin{verse}[\versewidth]
+Díligam te, Dómine, fortitúdo mea. *\\
+Dómine, firmaméntum meum \verselinebreak et refúgium meum et liberátor meus;\\!
+\vin Deus meus, adiútor meus, et sperábo in eum: *\\
+\vin protéctor meus, et cornu salútis meæ, et suscéptor meus.\\!
+Laudábilem invocábo Dóminum, *\\
+et ab inimícis meis salvus ero.\\!
+\vin Circumdedérunt me fluctus mortis, *\\
+\vin et torréntes Bélial conturbavérunt me;\\!
+funes inférni circumdedérunt me, *\\
+præoccupavérunt me láquei mortis.\\!
+\vin In tribulatióne mea invocávi Dóminum, *\\
+\vin et ad Deum meum clamávi;\\!
+exaudívit de templo suo vocem meam, *\\
+et clamor meus in conspéctu eius introívit in aures eius.\\!
+\vin Commóta est et contrémuit terra; †\\
+\vin fundaménta móntium concússa sunt et commóta sunt, *\\
+\vin quóniam irátus est.\\!
+Ascéndit fumus de náribus eius, †\\
+et ignis de ore eius dévorans; *\\
+carbónes succénsi processérunt ab eo.\\!
+\vin Inclinávit cælos et descéndit, *\\
+\vin et calígo sub pédibus eius.\\!
+Et ascéndit super Cherub et volávit, *\\
+devolávit super pennas ventórum.\\!
+\vin Et pósuit ténebras latíbulum suum, †\\
+\vin in circúitu tabernáculum eius, *\\
+\vin tenebrósa aqua, nubes áëris.\\!
+Præ fulgóre in conspéctu eius nubes transiérunt, *\\
+grando et carbónes ignis.\\!
+\vin Et intónuit de cælo Dóminus, †\\
+\vin et Altíssimus dedit vocem suam: *\\
+\vin grando et carbónes ignis.\\!
+Et misit sagíttas suas et dissipávit eos, *\\
+fúlgura iecit et conturbávit eos.\\!
+\vin Et apparuérunt fontes aquárum, *\\
+\vin et reveláta sunt fundaménta orbis terrárum,\\!
+ab increpatióne tua, Dómine, *\\
+ab inspiratióne spíritus iræ tuæ.\\
+\end{verse}
+\begin{center}
+\textcolor{red}{\large \bf II}\\
+\end{center}
+\begin{verse}[\versewidth]
+\vin Misit de summo et accépit me, *\\
+\vin et assúmpsit me de aquis multis;\\!
+erípuit me de inimícis meis fortíssimis, †\\
+et ab his qui odérunt me, *\\
+qui confortáti sunt super me.\\!
+\vin Oppugnavérunt me in die afflictiónis meæ, *\\
+\vin et factus est Dóminus fulciméntum meum;\\!
+et edúxit me in latitúdinem, *\\
+salvum me fecit, quóniam vóluit me.\\!
+\vin Et retríbuit mihi Dóminus secúndum iustítiam meam, *\\
+\vin et secúndum puritátem mánuum meárum reddet mihi;\\!
+quia custodívi vias Dómini, *\\
+nec ímpie recéssi a Deo meo.\\!
+\vin Quóniam ómnia iudícia eius in conspéctu meo, *\\
+\vin et iustítias eius non réppuli a me;\\!
+et fui immaculátus cum eo, *\\
+et observávi me ab iniquitáte.\\!
+\vin Et retríbuit mihi Dóminus secundum iustítiam meam, *\\
+\vin et secúndum puritátem mánuum meárum in conspéctu oculórum eius.\\!
+Cum sancto sanctus eris, *\\
+et cum viro innocénte ínnocens eris,\\!
+\vin et cum elécto eléctus eris, *\\
+\vin et cum pervérso cállidus eris.\\!
+Quóniam tu pópulum húmilem salvum fácies, *\\
+et óculos superbórum humiliábis.\\!
+\vin Quóniam tu accéndis lucérnam meam, Dómine; *\\
+\vin Deus meus illúminat ténebras meas.\\!
+Quóniam in te aggrédiar hóstium turmas *\\
+et in Deo meo transíliam murum.\\
+\end{verse}
+\begin{center}
+\textcolor{red}{\large \bf III}\\
+\end{center}
+\begin{verse}[\versewidth]
+\vin Deus, impollúta via eius, †\\
+\vin elóquia Dómini igne examináta; *\\
+\vin protéctor est ómnium sperántium in se.\\!
+Quóniam quis Deus præter Dóminum? *\\
+aut quæ munítio præter Deum nostrum?\\!
+\vin Deus qui præcínxit me virtúte, *\\
+\vin et pósuit immaculátam viam meam;\\!
+qui perfécit pedes meos tamquam cervórum, *\\
+et super excélsa státuit me;\\!
+\vin qui docet manus meas ad próelium, *\\
+\vin et tendunt arcum ǽreum brácchia mea.\\!
+Et dedísti mihi scutum salútis tuæ, †\\
+et déxtera tua suscépit me, *\\
+et mansuetúdo tua educávit me.\\!
+\vin Dilatásti gressus meos subtus me, *\\
+\vin et non sunt infirmáta vestígia mea.\\!
+Persequébar inimícos meos et comprehendébam illos, *\\
+et non convertébar, donec defícerent.\\!
+\vin Confringébam illos nec póterant stare, *\\
+\vin cadébant subtus pedes meos.\\!
+Et præcinxísti me virtúte ad bellum, *\\
+et supplantásti insurgéntes in me subtus me.\\!
+\vin Et inimícos meos dedísti mihi dorsum, *\\
+\vin et odiéntes me disperdidísti.\\!
+Clamavérunt, nec erat qui salvos fáceret, *\\
+ad Dóminum, nec exaudívit eos.\\!
+\vin Et commínui eos ut púlverem ante fáciem venti, *\\
+\vin ut lutum plateárum contrívi eos.\\!
+Eripuísti me de contradictiónibus pópuli, *\\
+constituísti me in caput géntium.\\!
+\vin Pópulus quem non cognóvi servívit mihi, *\\
+\vin in audítu auris oboedívit mihi.\\!
+Fílii aliéni blandíti sunt mihi, †\\
+fílii aliéni inveteráti sunt, *\\
+contremuérunt in ábditis suis.\\!
+\vin Vivat Dóminus, et benedíctus Adiútor meus, *\\
+\vin et exaltétur Deus salútis meæ.\\!
+Deus qui das vindíctas mihi, †\\
+et subdis pópulos sub me; *\\
+liberátor meus de inimícis meis iracúndis.\\!
+\vin Et ab insurgéntibus in me exáltas me, *\\
+\vin a viro iníquo éripis me.\\!
+Proptérea confitébor tibi in natiónibus, Dómine, *\\
+et nómini tuo psalmum dicam,\\!
+\vin magníficans salútes regis sui, †\\
+\vin et fáciens misericórdiam christo suo, *\\
+\vin David et sémini eius usque in sǽculum.\\
+\end{verse}
+\vspace{1cm}
+
+
